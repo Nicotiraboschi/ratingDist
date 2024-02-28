@@ -52,11 +52,36 @@
 # games: 19789
 
 
+# MAIN LOOK FOR NEW NAME IN SETNAMESTOCHECK COMPARED TO BEFORE
+# import csv
+
+# def find_names_difference(file1, file2):
+#     with open(file1, 'r') as f1, open(file2, 'r') as f2:
+#         names1 = set(row[0] for row in csv.reader(f1))
+#         names2 = set(row[0] for row in csv.reader(f2))
+
+#         difference = names1 - names2
+
+#     return difference
+
+# if __name__ == "__main__":
+#     file2_path = "../csv/setNamesToCheck.csv"  # Replace with the path to your first CSV file
+#     file1_path = "../csv/namesToCheck.csv"  # Replace with the path to your second CSV file
+
+#     different_names = find_names_difference(file1_path, file2_path)
+
+#     if different_names:
+#         print("Names in the first file not present in the second file:")
+#         print(len(different_names))
+#     else:
+#         print("All names in the first file are present in the second file.")
+
+
 # MAIN CHECK DUPLICATES IN GAMES_ID
 # import pandas as pd
 
 # # Replace 'your_file.csv' with the actual file containing the names
-# list = pd.read_csv('../csv/namesToCheck.csv').iloc[:, 0].tolist()
+# list = pd.read_csv('../csv/namesChecked.csv').iloc[:, 0].tolist()
 # # list = pd.read_csv('../csv/setNamesToCheck.csv').iloc[:, 0].tolist()
 
 # # Find duplicates
@@ -175,19 +200,33 @@
 #         max_value = current_value
 
 # print("Il numero più grande nei nomi dei file è:", max_value)
+
 # MAIN COUNT ROWS
-# with open('../games/games_0.csv', 'r') as file:
-#     line_count = sum(1 for line in file)
+file_to_open = '../csv/namesNotFound.csv'
+with open(file_to_open, 'r') as file:
+    line_count = sum(1 for line in file)
 
-# print(f'Number of lines: {line_count}')
+print(f'Number of lines: {line_count}, file:{file_to_open}')
 
-# MAIN merge names to check with new names
+file_to_open = '../csv/namesChecked.csv'
+with open(file_to_open, 'r') as file:
+    line_count = sum(1 for line in file)
+
+print(f'Number of lines: {line_count}, file:{file_to_open}')
+file_to_open = '../csv/setNamesToCheck.csv'
+with open(file_to_open, 'r') as file:
+    line_count = sum(1 for line in file)
+
+print(f'Number of lines: {line_count}, file:{file_to_open}')
+
+# MAIN merge names to check with new names/ remove names from names checked
 # import pandas as pd
-# set_names_to_check = set(pd.read_csv('../csv/namesToCheck.csv').iloc[:, 0].tolist())
-# set_new_names = set(pd.read_csv('../csv/namesChecked.csv').iloc[:, 0].tolist())
-# set_names_to_check.update(set_new_names)
+# set_names_to_check = set(pd.read_csv('../csv/newNamesToCheck.csv').iloc[:, 0].tolist())
+# # set_new_names = set(pd.read_csv('../csv/setNamesToCheck.csv').iloc[:, 0].tolist())
+# set_names_to_remove = set(pd.read_csv('../csv/namesChecked.csv').iloc[:,0].tolist())
+# set_names_to_check.difference_update(set_names_to_remove)
 # df_names_to_check = pd.DataFrame(list(set_names_to_check))
-# df_names_to_check.to_csv('../csv/namesToCheck.csv', header=["Name"], index=False)
+# df_names_to_check.to_csv('../csv/newNamesToCheck.csv', header=["Name"], index=False)
 
 
 # MAIN CHECK EMPTY COLUMN

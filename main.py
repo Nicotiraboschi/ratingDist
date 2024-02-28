@@ -4,19 +4,20 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from chessdotcom import Client
 import os
 import time
+import re
 
 start_time = time.time()
+print ('Starting at', time.strftime('%X %x %Z'), start_time)
 
 Client.request_config["headers"]["User-Agent"] = (
     "I wanna analyse rating distribution among chess.com active players, and create a database for some months."
     "Contact me at nico.tiraboschi@gmail.com"
 )
 
-if not os.path.exists('csv/namesToCheck.csv'):
+if not os.path.exists('csv/setNamesToCheck.csv'):
     set_names_to_check = set()
 else:
-    set_names_to_check = set(pd.read_csv('csv/namesToCheck.csv').iloc[:, 0].tolist())
-    print(f'Loaded {len(set_names_to_check)} names to check.')
+    set_names_to_check = set(pd.read_csv('csv/setNamesToCheck.csv').iloc[:, 0].tolist())
 
 if not os.path.exists('csv/namesChecked.csv'):
     set_names_checked = set()
@@ -28,8 +29,6 @@ if not os.path.exists('csv/namesNotFound.csv'):
 else:
     set_names_not_found = set(pd.read_csv('csv/namesNotFound.csv').iloc[:, 0].tolist())
 
-games_file_number = 1
-games_file_name = f'games_{games_file_number}.csv'
 
 def fetch_player_games(player_name):
     try:
@@ -84,20 +83,13 @@ def fetch_player_games(player_name):
 list_all_games = []
 
 # Iterate over players using ThreadPoolExecutor
-max_threads = 1
+max_threads = 1000
 
 while set_names_to_check:
     with ThreadPoolExecutor(max_threads) as executor:
         selected_names = list(set_names_to_check)[:max_threads]
-        
-        # REVIEW
-        print("--- %s seconds ---" % (time.time() - start_time), f"dowloading games from {len(selected_names)} names")
-        start_time = time.time()
-        # END REVIEW
-        
+                
         set_names_to_check -= set(selected_names)
-        print(f'extracted names: the list is now long {len(set_names_to_check)}')
-
 
         futures = {executor.submit(fetch_player_games, player_name):
                 player_name for player_name in selected_names}
@@ -114,28 +106,44 @@ while set_names_to_check:
         
         names_to_check_pd = pd.DataFrame(set_names_to_check)
         names_to_check_pd.to_csv('csv/setNamesToCheck.csv', header=["Name"], index=False)
-        print(f'to check: the list is now long {len(set_names_to_check)}')
         
         names_not_found_pd = pd.DataFrame(set_names_not_found)
         names_not_found_pd.to_csv('csv/namesNotFound.csv',header=["Name"], index=False)
         
-                
-        def check_file_size():
-            
-            global games_file_name
-
-            try:
-                size_games_file = os.path.getsize(f'games/{games_file_name}')
-            except FileNotFoundError:
-                return
-            size_limit_gb = 1
-            size_limit_bytes = size_limit_gb * 1024 * 1024 * 1024  # 1 gigabyte in bytes
-
-            if size_games_file > size_limit_bytes:
-                games_file_number += 1
-                games_file_name = f'games_{games_file_number}.csv'  # Use a timestamp for a new file
         
-        check_file_size() 
+        size_limit_gb = 1
+        size_limit_bytes = size_limit_gb * 1024 * 1024 * 1024  # 1 gigabyte in bytes
+            
+            
+        def find_largest_number_in_files(folder_path):
+            # Get a list of files in the folder
+            files = os.listdir(folder_path)
+
+            # Define a regular expression to extract numbers from filenames
+            pattern = re.compile(r'games_(\d+)')
+
+            # Extract numbers from filenames and find the largest one
+            largest_number = max(
+                [int(pattern.search(file).group(1)) for file in files if pattern.search(file)],
+                default=None
+            )
+
+            return largest_number
+
+        # Example usage
+        largest_number = find_largest_number_in_files('./games')
+
+        if largest_number is not None:
+            if os.path.getsize(f'./games/games_{largest_number}.csv') > size_limit_bytes:
+                games_file_number = largest_number + 1
+                games_file_name = f'games_{games_file_number}.csv'
+            else:
+                games_file_number = largest_number
+                games_file_name = f'games_{games_file_number}.csv'
+        else:
+            games_file_number = 1
+            games_file_name = f'games_{games_file_number}.csv'
+ 
                      
         if len(list_all_games):
             games_pd = pd.DataFrame(list_all_games)
@@ -148,7 +156,11 @@ while set_names_to_check:
                 
             # REVIEW
             print("--- %s seconds ---" % (time.time() - start_time), f"saved {len(list_all_games)} games")
-            start_time = time.time()
-            # END REVIEW          
+            
+            with open('time.txt', 'a') as f:
+                f.write(f"\n{int(time.time() - start_time)}\n")
+            
+            # END REVIEW  
+                    
             list_all_games = []
-     
+        
