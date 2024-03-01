@@ -100,7 +100,8 @@ while set_names_to_check:
             except Exception as e:
                 print(f"Error fetching games: {e}")
                 
-                        
+        print("danger, writing files")
+        
         names_checked_pd = pd.DataFrame(set_names_checked)
         names_checked_pd.to_csv('csv/namesChecked.csv', header=["Name"], index=False)
         

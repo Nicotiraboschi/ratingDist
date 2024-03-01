@@ -206,18 +206,18 @@ file_to_open = '../csv/namesNotFound.csv'
 with open(file_to_open, 'r') as file:
     line_count = sum(1 for line in file)
 
-print(f'Number of lines: {line_count}, file:{file_to_open}')
+print(f'Number of names not found: {line_count}, file:{file_to_open}')
 
 file_to_open = '../csv/namesChecked.csv'
 with open(file_to_open, 'r') as file:
     line_count = sum(1 for line in file)
 
-print(f'Number of lines: {line_count}, file:{file_to_open}')
+print(f'Number of names already checked: {line_count}, file:{file_to_open}')
 file_to_open = '../csv/setNamesToCheck.csv'
 with open(file_to_open, 'r') as file:
     line_count = sum(1 for line in file)
 
-print(f'Number of lines: {line_count}, file:{file_to_open}')
+print(f'Number of names to check: {line_count}, file:{file_to_open}')
 
 # MAIN merge names to check with new names/ remove names from names checked
 # import pandas as pd

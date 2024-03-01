@@ -57481,3 +57481,3607 @@ Error fetching games: 'tcn'
 [0] [0]     tag: 'p'
 [0] [0]   }
 [0] [0] ] actions
+[0] [0] {
+[0] [0]   action: 'reddit',
+[0] [0]   startDate: '2024-02-28T19:55:37.336Z',
+[0] [0]   endDate: 'in progress',
+[0] [0]   duration: 'in progress',
+[0] [0]   tag: 'p'
+[0] [0] } req.body
+[0] [0] {
+[0] [0]   action: 'windows',
+[0] [0]   startDate: '2024-02-28T19:05:46.695Z',
+[0] [0]   endDate: 'in progress',
+[0] [0]   duration: 'in progress',
+[0] [0]   tag: 'p'
+[0] [0] } lastAction
+[0] [0] [
+[0] [0]   {
+[0] [0]     action: 'cibo',
+[0] [0]     startDate: '2024-02-28T07:28:57.492Z',
+[0] [0]     endDate: 2024-02-28T07:42:11.791Z,
+[0] [0]     duration: 794299,
+[0] [0]     tag: 'u'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'web',
+[0] [0]     startDate: '2024-02-28T07:42:11.784Z',
+[0] [0]     endDate: 2024-02-28T07:43:03.662Z,
+[0] [0]     duration: 51878,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'anki',
+[0] [0]     startDate: '2024-02-28T07:43:03.656Z',
+[0] [0]     endDate: 2024-02-28T07:48:24.340Z,
+[0] [0]     duration: 320684,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T07:48:24.328Z',
+[0] [0]     endDate: 2024-02-28T07:53:39.904Z,
+[0] [0]     duration: 315576,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'calze',
+[0] [0]     startDate: '2024-02-28T07:53:39.887Z',
+[0] [0]     endDate: 2024-02-28T07:53:45.442Z,
+[0] [0]     duration: 5555,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'calze',
+[0] [0]     startDate: '2024-02-28T07:53:45.436Z',
+[0] [0]     endDate: 2024-02-28T07:57:34.277Z,
+[0] [0]     duration: 228841,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'database',
+[0] [0]     startDate: '2024-02-28T07:57:34.270Z',
+[0] [0]     endDate: 2024-02-28T07:57:42.811Z,
+[0] [0]     duration: 8541,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'database',
+[0] [0]     startDate: '2024-02-28T07:57:42.805Z',
+[0] [0]     endDate: 2024-02-28T08:05:27.255Z,
+[0] [0]     duration: 464450,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'mail',
+[0] [0]     startDate: '2024-02-28T08:05:27.242Z',
+[0] [0]     endDate: 2024-02-28T08:08:24.313Z,
+[0] [0]     duration: 177071,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'db',
+[0] [0]     startDate: '2024-02-28T08:08:24.302Z',
+[0] [0]     endDate: 2024-02-28T08:22:11.020Z,
+[0] [0]     duration: 826718,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T08:22:11.012Z',
+[0] [0]     endDate: 2024-02-28T09:04:33.656Z,
+[0] [0]     duration: 2542644,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T09:04:33.644Z',
+[0] [0]     endDate: 2024-02-28T09:06:48.111Z,
+[0] [0]     duration: 134467,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T09:06:48.106Z',
+[0] [0]     endDate: 2024-02-28T09:57:41.797Z,
+[0] [0]     duration: 3053691,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T09:57:41.790Z',
+[0] [0]     endDate: 2024-02-28T10:07:37.593Z,
+[0] [0]     duration: 595803,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T10:07:37.579Z',
+[0] [0]     endDate: 2024-02-28T12:04:23.041Z,
+[0] [0]     duration: 7005462,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T12:04:23.035Z',
+[0] [0]     endDate: 2024-02-28T12:10:25.930Z,
+[0] [0]     duration: 362895,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T12:10:25.917Z',
+[0] [0]     endDate: 2024-02-28T14:00:50.126Z,
+[0] [0]     duration: 6624209,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cibo',
+[0] [0]     startDate: '2024-02-28T14:00:50.113Z',
+[0] [0]     endDate: 2024-02-28T14:15:49.776Z,
+[0] [0]     duration: 899663,
+[0] [0]     tag: 'u'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T14:15:49.770Z',
+[0] [0]     endDate: 2024-02-28T15:43:20.191Z,
+[0] [0]     duration: 5250421,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T15:43:20.177Z',
+[0] [0]     endDate: 2024-02-28T15:50:57.339Z,
+[0] [0]     duration: 457162,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T15:50:57.327Z',
+[0] [0]     endDate: 2024-02-28T16:11:50.307Z,
+[0] [0]     duration: 1252980,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T16:11:50.296Z',
+[0] [0]     endDate: 2024-02-28T16:11:55.877Z,
+[0] [0]     duration: 5581,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'windows',
+[0] [0]     startDate: '2024-02-28T16:11:55.869Z',
+[0] [0]     endDate: 2024-02-28T18:08:50.071Z,
+[0] [0]     duration: 7014202,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'monkey',
+[0] [0]     startDate: '2024-02-28T18:08:50.038Z',
+[0] [0]     endDate: 2024-02-28T18:34:25.411Z,
+[0] [0]     duration: 1535373,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T18:34:25.403Z',
+[0] [0]     endDate: 2024-02-28T18:39:07.589Z,
+[0] [0]     duration: 282186,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'windows',
+[0] [0]     startDate: '2024-02-28T18:39:07.571Z',
+[0] [0]     endDate: 2024-02-28T18:49:42.955Z,
+[0] [0]     duration: 635384,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cibo',
+[0] [0]     startDate: '2024-02-28T18:49:42.936Z',
+[0] [0]     endDate: 2024-02-28T19:05:46.704Z,
+[0] [0]     duration: 963768,
+[0] [0]     tag: 'u'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'windows',
+[0] [0]     startDate: '2024-02-28T19:05:46.695Z',
+[0] [0]     endDate: 2024-02-28T19:55:37.354Z,
+[0] [0]     duration: 2990659,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'reddit',
+[0] [0]     startDate: '2024-02-28T19:55:37.336Z',
+[0] [0]     endDate: 'in progress',
+[0] [0]     duration: 'in progress',
+[0] [0]     tag: 'p'
+[0] [0]   }
+[0] [0] ] actions
+[0] [0] {
+[0] [0]   action: '',
+[0] [0]   startDate: '2024-02-28T21:14:24.194Z',
+[0] [0]   endDate: 'in progress',
+[0] [0]   duration: 'in progress',
+[0] [0]   tag: 'w'
+[0] [0] } req.body
+[0] [0] {
+[0] [0]   action: 'reddit',
+[0] [0]   startDate: '2024-02-28T19:55:37.336Z',
+[0] [0]   endDate: 'in progress',
+[0] [0]   duration: 'in progress',
+[0] [0]   tag: 'p'
+[0] [0] } lastAction
+[0] [0] [
+[0] [0]   {
+[0] [0]     action: 'cibo',
+[0] [0]     startDate: '2024-02-28T07:28:57.492Z',
+[0] [0]     endDate: 2024-02-28T07:42:11.791Z,
+[0] [0]     duration: 794299,
+[0] [0]     tag: 'u'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'web',
+[0] [0]     startDate: '2024-02-28T07:42:11.784Z',
+[0] [0]     endDate: 2024-02-28T07:43:03.662Z,
+[0] [0]     duration: 51878,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'anki',
+[0] [0]     startDate: '2024-02-28T07:43:03.656Z',
+[0] [0]     endDate: 2024-02-28T07:48:24.340Z,
+[0] [0]     duration: 320684,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T07:48:24.328Z',
+[0] [0]     endDate: 2024-02-28T07:53:39.904Z,
+[0] [0]     duration: 315576,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'calze',
+[0] [0]     startDate: '2024-02-28T07:53:39.887Z',
+[0] [0]     endDate: 2024-02-28T07:53:45.442Z,
+[0] [0]     duration: 5555,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'calze',
+[0] [0]     startDate: '2024-02-28T07:53:45.436Z',
+[0] [0]     endDate: 2024-02-28T07:57:34.277Z,
+[0] [0]     duration: 228841,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'database',
+[0] [0]     startDate: '2024-02-28T07:57:34.270Z',
+[0] [0]     endDate: 2024-02-28T07:57:42.811Z,
+[0] [0]     duration: 8541,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'database',
+[0] [0]     startDate: '2024-02-28T07:57:42.805Z',
+[0] [0]     endDate: 2024-02-28T08:05:27.255Z,
+[0] [0]     duration: 464450,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'mail',
+[0] [0]     startDate: '2024-02-28T08:05:27.242Z',
+[0] [0]     endDate: 2024-02-28T08:08:24.313Z,
+[0] [0]     duration: 177071,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'db',
+[0] [0]     startDate: '2024-02-28T08:08:24.302Z',
+[0] [0]     endDate: 2024-02-28T08:22:11.020Z,
+[0] [0]     duration: 826718,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T08:22:11.012Z',
+[0] [0]     endDate: 2024-02-28T09:04:33.656Z,
+[0] [0]     duration: 2542644,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T09:04:33.644Z',
+[0] [0]     endDate: 2024-02-28T09:06:48.111Z,
+[0] [0]     duration: 134467,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T09:06:48.106Z',
+[0] [0]     endDate: 2024-02-28T09:57:41.797Z,
+[0] [0]     duration: 3053691,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T09:57:41.790Z',
+[0] [0]     endDate: 2024-02-28T10:07:37.593Z,
+[0] [0]     duration: 595803,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T10:07:37.579Z',
+[0] [0]     endDate: 2024-02-28T12:04:23.041Z,
+[0] [0]     duration: 7005462,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T12:04:23.035Z',
+[0] [0]     endDate: 2024-02-28T12:10:25.930Z,
+[0] [0]     duration: 362895,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T12:10:25.917Z',
+[0] [0]     endDate: 2024-02-28T14:00:50.126Z,
+[0] [0]     duration: 6624209,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cibo',
+[0] [0]     startDate: '2024-02-28T14:00:50.113Z',
+[0] [0]     endDate: 2024-02-28T14:15:49.776Z,
+[0] [0]     duration: 899663,
+[0] [0]     tag: 'u'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T14:15:49.770Z',
+[0] [0]     endDate: 2024-02-28T15:43:20.191Z,
+[0] [0]     duration: 5250421,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T15:43:20.177Z',
+[0] [0]     endDate: 2024-02-28T15:50:57.339Z,
+[0] [0]     duration: 457162,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T15:50:57.327Z',
+[0] [0]     endDate: 2024-02-28T16:11:50.307Z,
+[0] [0]     duration: 1252980,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T16:11:50.296Z',
+[0] [0]     endDate: 2024-02-28T16:11:55.877Z,
+[0] [0]     duration: 5581,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'windows',
+[0] [0]     startDate: '2024-02-28T16:11:55.869Z',
+[0] [0]     endDate: 2024-02-28T18:08:50.071Z,
+[0] [0]     duration: 7014202,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'monkey',
+[0] [0]     startDate: '2024-02-28T18:08:50.038Z',
+[0] [0]     endDate: 2024-02-28T18:34:25.411Z,
+[0] [0]     duration: 1535373,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T18:34:25.403Z',
+[0] [0]     endDate: 2024-02-28T18:39:07.589Z,
+[0] [0]     duration: 282186,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'windows',
+[0] [0]     startDate: '2024-02-28T18:39:07.571Z',
+[0] [0]     endDate: 2024-02-28T18:49:42.955Z,
+[0] [0]     duration: 635384,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cibo',
+[0] [0]     startDate: '2024-02-28T18:49:42.936Z',
+[0] [0]     endDate: 2024-02-28T19:05:46.704Z,
+[0] [0]     duration: 963768,
+[0] [0]     tag: 'u'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'windows',
+[0] [0]     startDate: '2024-02-28T19:05:46.695Z',
+[0] [0]     endDate: 2024-02-28T19:55:37.354Z,
+[0] [0]     duration: 2990659,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'reddit',
+[0] [0]     startDate: '2024-02-28T19:55:37.336Z',
+[0] [0]     endDate: 2024-02-28T21:14:24.241Z,
+[0] [0]     duration: 4726905,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T21:14:24.194Z',
+[0] [0]     endDate: 'in progress',
+[0] [0]     duration: 'in progress',
+[0] [0]     tag: 'w'
+[0] [0]   }
+[0] [0] ] actions
+[0] [0] CSV file written successfully
+[0] [0] CSV file deleted successfully
+[1] {'2024-02-23': {'Priority': 1613}, '2024-02-26': {'Unavoidable': 4101939, 'Other-tasks': 3872051, 'Wasted': 13402312, 'Priority': 27880030}, '2024-02-27': {'Unavoidable': 1472833, 'Other-tasks': 16219547, 'Wasted': 18334634, 'Priority': 13117219}, '2024-02-28': {'Unavoidable': 2657730, 'Other-tasks': 10442146, 'Wasted': 10004285, 'Priority': 34087910}} durations_by_day
+[{'tag': 'p', 'action': 'monkey', 'startDate': '2024-02-23T17:50:42.590Z', 'endDate': 'Fri Feb 23 2024 18:50:44 GMT+0100 (Central European Standard Time)', 'duration': 1613}, {'tag': 'u', 'action': 'colazione', 'startDate': '2024-02-26T07:30:31.970Z', 'endDate': 'Mon Feb 26 2024 08:49:05 GMT+0100 (Central European Standard Time)', 'duration': 1113333}, {'tag': 'o', 'action': 'web', 'startDate': '2024-02-26T07:49:05.296Z', 'endDate': 'Mon Feb 26 2024 08:49:34 GMT+0100 (Central European Standard Time)', 'duration': 29181}, {'tag': 'o', 'action': 'anki', 'startDate': '2024-02-26T07:49:34.468Z', 'endDate': 'Mon Feb 26 2024 08:55:33 GMT+0100 (Central European Standard Time)', 'duration': 358592}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T07:55:33.051Z', 'endDate': 'Mon Feb 26 2024 09:19:22 GMT+0100 (Central European Standard Time)', 'duration': 1429614}, {'tag': 'o', 'action': 'fixing rating', 'startDate': '2024-02-26T08:19:22.619Z', 'endDate': 'Mon Feb 26 2024 09:40:01 GMT+0100 (Central European Standard Time)', 'duration': 1239304}, {'tag': 'o', 'action': 'fixing rating', 'startDate': '2024-02-26T09:01:35.445Z', 'endDate': 'Mon Feb 26 2024 10:05:19 GMT+0100 (Central European Standard Time)', 'duration': 224075}, {'tag': 'o', 'action': 'monkey', 'startDate': '2024-02-26T09:05:19.508Z', 'endDate': 'Mon Feb 26 2024 10:29:31 GMT+0100 (Central European Standard Time)', 'duration': 1452158}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T09:29:31.653Z', 'endDate': 'Mon Feb 26 2024 10:38:01 GMT+0100 (Central European Standard Time)', 'duration': 509453}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-26T09:38:01.098Z', 'endDate': 'Mon Feb 26 2024 10:46:48 GMT+0100 (Central European Standard Time)', 'duration': 527729}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T09:46:48.819Z', 'endDate': 'Mon Feb 26 2024 11:00:59 GMT+0100 (Central European Standard Time)', 'duration': 850181}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-26T10:00:58.995Z', 'endDate': 'Mon Feb 26 2024 12:01:09 GMT+0100 (Central European Standard Time)', 'duration': 3610781}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T11:01:09.768Z', 'endDate': 'Mon Feb 26 2024 12:34:56 GMT+0100 (Central European Standard Time)', 'duration': 2027084}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-26T11:34:56.846Z', 'endDate': 'Mon Feb 26 2024 13:48:29 GMT+0100 (Central European Standard Time)', 'duration': 4412290}, {'tag': 'u', 'action': 'cibo', 'startDate': '2024-02-26T12:48:29.129Z', 'endDate': 'Mon Feb 26 2024 14:08:41 GMT+0100 (Central European Standard Time)', 'duration': 1212228}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-26T13:08:41.351Z', 'endDate': 'Mon Feb 26 2024 16:29:04 GMT+0100 (Central European Standard Time)', 'duration': 8422852}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T15:29:04.196Z', 'endDate': 'Mon Feb 26 2024 16:31:45 GMT+0100 (Central European Standard Time)', 'duration': 161374}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-26T15:31:45.557Z', 'endDate': 'Mon Feb 26 2024 18:06:17 GMT+0100 (Central European Standard Time)', 'duration': 5671684}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T17:06:17.219Z', 'endDate': 'Mon Feb 26 2024 18:29:38 GMT+0100 (Central European Standard Time)', 'duration': 1400998}, {'tag': 'p', 'action': 'cs', 'startDate': '2024-02-26T17:29:38.210Z', 'endDate': 'Mon Feb 26 2024 19:56:52 GMT+0100 (Central European Standard Time)', 'duration': 5234694}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T18:56:52.892Z', 'endDate': 'Mon Feb 26 2024 20:11:17 GMT+0100 (Central European Standard Time)', 'duration': 864699}, {'tag': 'u', 'action': 'cibo', 'startDate': '2024-02-26T19:11:17.582Z', 'endDate': 'Mon Feb 26 2024 20:40:53 GMT+0100 (Central European Standard Time)', 'duration': 1776378}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T19:40:53.952Z', 'endDate': 'Mon Feb 26 2024 22:23:32 GMT+0100 (Central European Standard Time)', 'duration': 6158909}, {'tag': 'o', 'action': 'push', 'startDate': '2024-02-26T21:23:32.850Z', 'endDate': 'Mon Feb 26 2024 22:33:01 GMT+0100 (Central European Standard Time)', 'duration': 568741}, {'tag': 'u', 'action': 'cibo', 'startDate': '2024-02-27T07:33:17.625Z', 'endDate': 'Tue Feb 27 2024 08:39:42 GMT+0100 (Central European Standard Time)', 'duration': 384746}, {'tag': 'o', 'action': 'web', 'startDate': '2024-02-27T07:39:42.365Z', 'endDate': 'Tue Feb 27 2024 08:43:44 GMT+0100 (Central European Standard Time)', 'duration': 242025}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T07:43:44.376Z', 'endDate': 'Tue Feb 27 2024 08:58:10 GMT+0100 (Central European Standard Time)', 'duration': 866326}, {'tag': 'o', 'action': 'anki', 'startDate': '2024-02-27T07:58:10.693Z', 'endDate': 'Tue Feb 27 2024 09:02:39 GMT+0100 (Central European Standard Time)', 'duration': 268796}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T08:02:39.478Z', 'endDate': 'Tue Feb 27 2024 09:02:54 GMT+0100 (Central European Standard Time)', 'duration': 15116}, {'tag': 'o', 'action': 'monkey', 'startDate': '2024-02-27T08:02:54.586Z', 'endDate': 'Tue Feb 27 2024 09:28:43 GMT+0100 (Central European Standard Time)', 'duration': 1548758}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T08:28:43.069Z', 'endDate': 'Tue Feb 27 2024 09:45:41 GMT+0100 (Central European Standard Time)', 'duration': 1018221}, {'tag': 'o', 'action': 'pull', 'startDate': '2024-02-27T08:45:41.283Z', 'endDate': 'Tue Feb 27 2024 09:46:41 GMT+0100 (Central European Standard Time)', 'duration': 60435}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T08:46:41.691Z', 'endDate': 'Tue Feb 27 2024 09:47:50 GMT+0100 (Central European Standard Time)', 'duration': 68571}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-27T08:47:50.254Z', 'endDate': 'Tue Feb 27 2024 10:24:04 GMT+0100 (Central European Standard Time)', 'duration': 2174193}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T09:24:04.435Z', 'endDate': 'Tue Feb 27 2024 10:38:14 GMT+0100 (Central European Standard Time)', 'duration': 850393}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-27T09:38:14.815Z', 'endDate': 'Tue Feb 27 2024 10:38:31 GMT+0100 (Central European Standard Time)', 'duration': 16629}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T09:38:31.435Z', 'endDate': 'Tue Feb 27 2024 10:56:15 GMT+0100 (Central European Standard Time)', 'duration': 1064033}, {'tag': 'w', 'action': 'cs50', 'startDate': '2024-02-27T09:56:15.455Z', 'endDate': 'Tue Feb 27 2024 10:56:19 GMT+0100 (Central European Standard Time)', 'duration': 4013}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-27T09:56:19.464Z', 'endDate': 'Tue Feb 27 2024 11:01:40 GMT+0100 (Central European Standard Time)', 'duration': 320797}, {'tag': 'o', 'action': 'meditation', 'startDate': '2024-02-27T10:01:40.247Z', 'endDate': 'Tue Feb 27 2024 11:28:56 GMT+0100 (Central European Standard Time)', 'duration': 1635799}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T10:28:56.037Z', 'endDate': 'Tue Feb 27 2024 14:04:31 GMT+0100 (Central European Standard Time)', 'duration': 9335573}, {'tag': 'o', 'action': 'shower', 'startDate': '2024-02-27T13:04:31.597Z', 'endDate': 'Tue Feb 27 2024 17:28:19 GMT+0100 (Central European Standard Time)', 'duration': 12228079}, {'tag': 'o', 'action': 'graph', 'startDate': '2024-02-27T16:28:19.657Z', 'endDate': 'Tue Feb 27 2024 17:30:02 GMT+0100 (Central European Standard Time)', 'duration': 103196}, {'tag': 'o', 'action': 'fitactive', 'startDate': '2024-02-27T16:30:02.842Z', 'endDate': 'Tue Feb 27 2024 17:32:15 GMT+0100 (Central European Standard Time)', 'duration': 132459}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T16:32:15.293Z', 'endDate': 'Tue Feb 27 2024 18:22:43 GMT+0100 (Central European Standard Time)', 'duration': 3027819}, {'tag': 'p', 'action': 'cs', 'startDate': '2024-02-27T17:22:43.107Z', 'endDate': 'Tue Feb 27 2024 19:50:14 GMT+0100 (Central European Standard Time)', 'duration': 5251167}, {'tag': 'u', 'action': 'cibo', 'startDate': '2024-02-27T18:50:14.243Z', 'endDate': 'Tue Feb 27 2024 20:08:22 GMT+0100 (Central European Standard Time)', 'duration': 1088087}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-27T19:08:22.318Z', 'endDate': 'Tue Feb 27 2024 20:25:49 GMT+0100 (Central European Standard Time)', 'duration': 1047506}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T19:25:49.815Z', 'endDate': 'Tue Feb 27 2024 20:29:14 GMT+0100 (Central European Standard Time)', 'duration': 204484}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-27T19:29:14.292Z', 'endDate': 'Tue Feb 27 2024 20:41:13 GMT+0100 (Central European Standard Time)', 'duration': 719428}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T19:41:13.710Z', 'endDate': 'Tue Feb 27 2024 21:12:12 GMT+0100 (Central European Standard Time)', 'duration': 1858393}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-27T20:12:12.086Z', 'endDate': 'Tue Feb 27 2024 22:11:59 GMT+0100 (Central European Standard Time)', 'duration': 3587499}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T21:11:59.578Z', 'endDate': 'Tue Feb 27 2024 22:12:21 GMT+0100 (Central European Standard Time)', 'duration': 21692}, {'tag': 'u', 'action': 'cibo', 'startDate': '2024-02-28T07:28:57.492Z', 'endDate': 'Wed Feb 28 2024 08:42:11 GMT+0100 (Central European Standard Time)', 'duration': 794299}, {'tag': 'o', 'action': 'web', 'startDate': '2024-02-28T07:42:11.784Z', 'endDate': 'Wed Feb 28 2024 08:43:03 GMT+0100 (Central European Standard Time)', 'duration': 51878}, {'tag': 'o', 'action': 'anki', 'startDate': '2024-02-28T07:43:03.656Z', 'endDate': 'Wed Feb 28 2024 08:48:24 GMT+0100 (Central European Standard Time)', 'duration': 320684}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T07:48:24.328Z', 'endDate': 'Wed Feb 28 2024 08:53:39 GMT+0100 (Central European Standard Time)', 'duration': 315576}, {'tag': 'p', 'action': 'calze', 'startDate': '2024-02-28T07:53:39.887Z', 'endDate': 'Wed Feb 28 2024 08:53:45 GMT+0100 (Central European Standard Time)', 'duration': 5555}, {'tag': 'o', 'action': 'calze', 'startDate': '2024-02-28T07:53:45.436Z', 'endDate': 'Wed Feb 28 2024 08:57:34 GMT+0100 (Central European Standard Time)', 'duration': 228841}, {'tag': 'w', 'action': 'database', 'startDate': '2024-02-28T07:57:34.270Z', 'endDate': 'Wed Feb 28 2024 08:57:42 GMT+0100 (Central European Standard Time)', 'duration': 8541}, {'tag': 'o', 'action': 'database', 'startDate': '2024-02-28T07:57:42.805Z', 'endDate': 'Wed Feb 28 2024 09:05:27 GMT+0100 (Central European Standard Time)', 'duration': 464450}, {'tag': 'w', 'action': 'mail', 'startDate': '2024-02-28T08:05:27.242Z', 'endDate': 'Wed Feb 28 2024 09:08:24 GMT+0100 (Central European Standard Time)', 'duration': 177071}, {'tag': 'o', 'action': 'db', 'startDate': '2024-02-28T08:08:24.302Z', 'endDate': 'Wed Feb 28 2024 09:22:11 GMT+0100 (Central European Standard Time)', 'duration': 826718}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-28T08:22:11.012Z', 'endDate': 'Wed Feb 28 2024 10:04:33 GMT+0100 (Central European Standard Time)', 'duration': 2542644}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T09:04:33.644Z', 'endDate': 'Wed Feb 28 2024 10:06:48 GMT+0100 (Central European Standard Time)', 'duration': 134467}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-28T09:06:48.106Z', 'endDate': 'Wed Feb 28 2024 10:57:41 GMT+0100 (Central European Standard Time)', 'duration': 3053691}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T09:57:41.790Z', 'endDate': 'Wed Feb 28 2024 11:07:37 GMT+0100 (Central European Standard Time)', 'duration': 595803}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-28T10:07:37.579Z', 'endDate': 'Wed Feb 28 2024 13:04:23 GMT+0100 (Central European Standard Time)', 'duration': 7005462}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T12:04:23.035Z', 'endDate': 'Wed Feb 28 2024 13:10:25 GMT+0100 (Central European Standard Time)', 'duration': 362895}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-28T12:10:25.917Z', 'endDate': 'Wed Feb 28 2024 15:00:50 GMT+0100 (Central European Standard Time)', 'duration': 6624209}, {'tag': 'u', 'action': 'cibo', 'startDate': '2024-02-28T14:00:50.113Z', 'endDate': 'Wed Feb 28 2024 15:15:49 GMT+0100 (Central European Standard Time)', 'duration': 899663}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-28T14:15:49.770Z', 'endDate': 'Wed Feb 28 2024 16:43:20 GMT+0100 (Central European Standard Time)', 'duration': 5250421}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T15:43:20.177Z', 'endDate': 'Wed Feb 28 2024 16:50:57 GMT+0100 (Central European Standard Time)', 'duration': 457162}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-28T15:50:57.327Z', 'endDate': 'Wed Feb 28 2024 17:11:50 GMT+0100 (Central European Standard Time)', 'duration': 1252980}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T16:11:50.296Z', 'endDate': 'Wed Feb 28 2024 17:11:55 GMT+0100 (Central European Standard Time)', 'duration': 5581}, {'tag': 'o', 'action': 'windows', 'startDate': '2024-02-28T16:11:55.869Z', 'endDate': 'Wed Feb 28 2024 19:08:50 GMT+0100 (Central European Standard Time)', 'duration': 7014202}, {'tag': 'o', 'action': 'monkey', 'startDate': '2024-02-28T18:08:50.038Z', 'endDate': 'Wed Feb 28 2024 19:34:25 GMT+0100 (Central European Standard Time)', 'duration': 1535373}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T18:34:25.403Z', 'endDate': 'Wed Feb 28 2024 19:39:07 GMT+0100 (Central European Standard Time)', 'duration': 282186}, {'tag': 'p', 'action': 'windows', 'startDate': '2024-02-28T18:39:07.571Z', 'endDate': 'Wed Feb 28 2024 19:49:42 GMT+0100 (Central European Standard Time)', 'duration': 635384}, {'tag': 'u', 'action': 'cibo', 'startDate': '2024-02-28T18:49:42.936Z', 'endDate': 'Wed Feb 28 2024 20:05:46 GMT+0100 (Central European Standard Time)', 'duration': 963768}, {'tag': 'p', 'action': 'windows', 'startDate': '2024-02-28T19:05:46.695Z', 'endDate': 'Wed Feb 28 2024 20:55:37 GMT+0100 (Central European Standard Time)', 'duration': 2990659}, {'tag': 'p', 'action': 'reddit', 'startDate': '2024-02-28T19:55:37.336Z', 'endDate': 'Wed Feb 28 2024 22:14:24 GMT+0100 (Central European Standard Time)', 'duration': 4726905}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T21:14:24.194Z', 'endDate': 'Thu Feb 29 2024 00:22:09 GMT+0100 (Central European Standard Time)', 'duration': 7665003}]127.0.0.1 - - [29/Feb/2024 00:22:24] "GET / HTTP/1.1" 200 -
+[1] 127.0.0.1 - - [29/Feb/2024 00:22:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[1] 127.0.0.1 - - [29/Feb/2024 00:22:40] "GET /tasks/priority HTTP/1.1" 200 -
+[1] 127.0.0.1 - - [29/Feb/2024 00:22:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[1] 127.0.0.1 - - [29/Feb/2024 00:22:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[1] 127.0.0.1 - - [29/Feb/2024 00:23:13] "GET /tasks/wasted HTTP/1.1" 200 -
+[1] 127.0.0.1 - - [29/Feb/2024 00:23:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[1] 127.0.0.1 - - [29/Feb/2024 00:25:16] "GET /tasks/unavoidable HTTP/1.1" 200 -
+[1] 127.0.0.1 - - [29/Feb/2024 00:25:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[1] 
+[1] {'2024-02-23': {'Priority': 3226}, '2024-02-26': {'Unavoidable': 8203878, 'Other-tasks': 7744102, 'Wasted': 26804624, 'Priority': 55760060}, '2024-02-27': {'Unavoidable': 2945666, 'Other-tasks': 32439094, 'Wasted': 36669268, 'Priority': 26234438}, '2024-02-28': {'Unavoidable': 5315460, 'Other-tasks': 20884292, 'Wasted': 20008570, 'Priority': 68175820}} durations_by_day
+[{'tag': 'p', 'action': 'monkey', 'startDate': '2024-02-23T17:50:42.590Z', 'endDate': 'Fri Feb 23 2024 18:50:44 GMT+0100 (Central European Standard Time)', 'duration': 1613}, {'tag': 'u', 'action': 'colazione', 'startDate': '2024-02-26T07:30:31.970Z', 'endDate': 'Mon Feb 26 2024 08:49:05 GMT+0100 (Central European Standard Time)', 'duration': 1113333}, {'tag': 'o', 'action': 'web', 'startDate': '2024-02-26T07:49:05.296Z', 'endDate': 'Mon Feb 26 2024 08:49:34 GMT+0100 (Central European Standard Time)', 'duration': 29181}, {'tag': 'o', 'action': 'anki', 'startDate': '2024-02-26T07:49:34.468Z', 'endDate': 'Mon Feb 26 2024 08:55:33 GMT+0100 (Central European Standard Time)', 'duration': 358592}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T07:55:33.051Z', 'endDate': 'Mon Feb 26 2024 09:19:22 GMT+0100 (Central European Standard Time)', 'duration': 1429614}, {'tag': 'o', 'action': 'fixing rating', 'startDate': '2024-02-26T08:19:22.619Z', 'endDate': 'Mon Feb 26 2024 09:40:01 GMT+0100 (Central European Standard Time)', 'duration': 1239304}, {'tag': 'o', 'action': 'fixing rating', 'startDate': '2024-02-26T09:01:35.445Z', 'endDate': 'Mon Feb 26 2024 10:05:19 GMT+0100 (Central European Standard Time)', 'duration': 224075}, {'tag': 'o', 'action': 'monkey', 'startDate': '2024-02-26T09:05:19.508Z', 'endDate': 'Mon Feb 26 2024 10:29:31 GMT+0100 (Central European Standard Time)', 'duration': 1452158}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T09:29:31.653Z', 'endDate': 'Mon Feb 26 2024 10:38:01 GMT+0100 (Central European Standard Time)', 'duration': 509453}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-26T09:38:01.098Z', 'endDate': 'Mon Feb 26 2024 10:46:48 GMT+0100 (Central European Standard Time)', 'duration': 527729}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T09:46:48.819Z', 'endDate': 'Mon Feb 26 2024 11:00:59 GMT+0100 (Central European Standard Time)', 'duration': 850181}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-26T10:00:58.995Z', 'endDate': 'Mon Feb 26 2024 12:01:09 GMT+0100 (Central European Standard Time)', 'duration': 3610781}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T11:01:09.768Z', 'endDate': 'Mon Feb 26 2024 12:34:56 GMT+0100 (Central European Standard Time)', 'duration': 2027084}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-26T11:34:56.846Z', 'endDate': 'Mon Feb 26 2024 13:48:29 GMT+0100 (Central European Standard Time)', 'duration': 4412290}, {'tag': 'u', 'action': 'cibo', 'startDate': '2024-02-26T12:48:29.129Z', 'endDate': 'Mon Feb 26 2024 14:08:41 GMT+0100 (Central European Standard Time)', 'duration': 1212228}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-26T13:08:41.351Z', 'endDate': 'Mon Feb 26 2024 16:29:04 GMT+0100 (Central European Standard Time)', 'duration': 8422852}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T15:29:04.196Z', 'endDate': 'Mon Feb 26 2024 16:31:45 GMT+0100 (Central European Standard Time)', 'duration': 161374}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-26T15:31:45.557Z', 'endDate': 'Mon Feb 26 2024 18:06:17 GMT+0100 (Central European Standard Time)', 'duration': 5671684}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T17:06:17.219Z', 'endDate': 'Mon Feb 26 2024 18:29:38 GMT+0100 (Central European Standard Time)', 'duration': 1400998}, {'tag': 'p', 'action': 'cs', 'startDate': '2024-02-26T17:29:38.210Z', 'endDate': 'Mon Feb 26 2024 19:56:52 GMT+0100 (Central European Standard Time)', 'duration': 5234694}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T18:56:52.892Z', 'endDate': 'Mon Feb 26 2024 20:11:17 GMT+0100 (Central European Standard Time)', 'duration': 864699}, {'tag': 'u', 'action': 'cibo', 'startDate': '2024-02-26T19:11:17.582Z', 'endDate': 'Mon Feb 26 2024 20:40:53 GMT+0100 (Central European Standard Time)', 'duration': 1776378}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T19:40:53.952Z', 'endDate': 'Mon Feb 26 2024 22:23:32 GMT+0100 (Central European Standard Time)', 'duration': 6158909}, {'tag': 'o', 'action': 'push', 'startDate': '2024-02-26T21:23:32.850Z', 'endDate': 'Mon Feb 26 2024 22:33:01 GMT+0100 (Central European Standard Time)', 'duration': 568741}, {'tag': 'u', 'action': 'cibo', 'startDate': '2024-02-27T07:33:17.625Z', 'endDate': 'Tue Feb 27 2024 08:39:42 GMT+0100 (Central European Standard Time)', 'duration': 384746}, {'tag': 'o', 'action': 'web', 'startDate': '2024-02-27T07:39:42.365Z', 'endDate': 'Tue Feb 27 2024 08:43:44 GMT+0100 (Central European Standard Time)', 'duration': 242025}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T07:43:44.376Z', 'endDate': 'Tue Feb 27 2024 08:58:10 GMT+0100 (Central European Standard Time)', 'duration': 866326}, {'tag': 'o', 'action': 'anki', 'startDate': '2024-02-27T07:58:10.693Z', 'endDate': 'Tue Feb 27 2024 09:02:39 GMT+0100 (Central European Standard Time)', 'duration': 268796}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T08:02:39.478Z', 'endDate': 'Tue Feb 27 2024 09:02:54 GMT+0100 (Central European Standard Time)', 'duration': 15116}, {'tag': 'o', 'action': 'monkey', 'startDate': '2024-02-27T08:02:54.586Z', 'endDate': 'Tue Feb 27 2024 09:28:43 GMT+0100 (Central European Standard Time)', 'duration': 1548758}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T08:28:43.069Z', 'endDate': 'Tue Feb 27 2024 09:45:41 GMT+0100 (Central European Standard Time)', 'duration': 1018221}, {'tag': 'o', 'action': 'pull', 'startDate': '2024-02-27T08:45:41.283Z', 'endDate': 'Tue Feb 27 2024 09:46:41 GMT+0100 (Central European Standard Time)', 'duration': 60435}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T08:46:41.691Z', 'endDate': 'Tue Feb 27 2024 09:47:50 GMT+0100 (Central European Standard Time)', 'duration': 68571}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-27T08:47:50.254Z', 'endDate': 'Tue Feb 27 2024 10:24:04 GMT+0100 (Central European Standard Time)', 'duration': 2174193}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T09:24:04.435Z', 'endDate': 'Tue Feb 27 2024 10:38:14 GMT+0100 (Central European Standard Time)', 'duration': 850393}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-27T09:38:14.815Z', 'endDate': 'Tue Feb 27 2024 10:38:31 GMT+0100 (Central European Standard Time)', 'duration': 16629}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T09:38:31.435Z', 'endDate': 'Tue Feb 27 2024 10:56:15 GMT+0100 (Central European Standard Time)', 'duration': 1064033}, {'tag': 'w', 'action': 'cs50', 'startDate': '2024-02-27T09:56:15.455Z', 'endDate': 'Tue Feb 27 2024 10:56:19 GMT+0100 (Central European Standard Time)', 'duration': 4013}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-27T09:56:19.464Z', 'endDate': 'Tue Feb 27 2024 11:01:40 GMT+0100 (Central European Standard Time)', 'duration': 320797}, {'tag': 'o', 'action': 'meditation', 'startDate': '2024-02-27T10:01:40.247Z', 'endDate': 'Tue Feb 27 2024 11:28:56 GMT+0100 (Central European Standard Time)', 'duration': 1635799}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T10:28:56.037Z', 'endDate': 'Tue Feb 27 2024 14:04:31 GMT+0100 (Central European Standard Time)', 'duration': 9335573}, {'tag': 'o', 'action': 'shower', 'startDate': '2024-02-27T13:04:31.597Z', 'endDate': 'Tue Feb 27 2024 17:28:19 GMT+0100 (Central European Standard Time)', 'duration': 12228079}, {'tag': 'o', 'action': 'graph', 'startDate': '2024-02-27T16:28:19.657Z', 'endDate': 'Tue Feb 27 2024 17:30:02 GMT+0100 (Central European Standard Time)', 'duration': 103196}, {'tag': 'o', 'action': 'fitactive', 'startDate': '2024-02-27T16:30:02.842Z', 'endDate': 'Tue Feb 27 2024 17:32:15 GMT+0100 (Central European Standard Time)', 'duration': 132459}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T16:32:15.293Z', 'endDate': 'Tue Feb 27 2024 18:22:43 GMT+0100 (Central European Standard Time)', 'duration': 3027819}, {'tag': 'p', 'action': 'cs', 'startDate': '2024-02-27T17:22:43.107Z', 'endDate': 'Tue Feb 27 2024 19:50:14 GMT+0100 (Central European Standard Time)', 'duration': 5251167}, {'tag': 'u', 'action': 'cibo', 'startDate': '2024-02-27T18:50:14.243Z', 'endDate': 'Tue Feb 27 2024 20:08:22 GMT+0100 (Central European Standard Time)', 'duration': 1088087}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-27T19:08:22.318Z', 'endDate': 'Tue Feb 27 2024 20:25:49 GMT+0100 (Central European Standard Time)', 'duration': 1047506}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T19:25:49.815Z', 'endDate': 'Tue Feb 27 2024 20:29:14 GMT+0100 (Central European Standard Time)', 'duration': 204484}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-27T19:29:14.292Z', 'endDate': 'Tue Feb 27 2024 20:41:13 GMT+0100 (Central European Standard Time)', 'duration': 719428}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T19:41:13.710Z', 'endDate': 'Tue Feb 27 2024 21:12:12 GMT+0100 (Central European Standard Time)', 'duration': 1858393}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-27T20:12:12.086Z', 'endDate': 'Tue Feb 27 2024 22:11:59 GMT+0100 (Central European Standard Time)', 'duration': 3587499}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T21:11:59.578Z', 'endDate': 'Tue Feb 27 2024 22:12:21 GMT+0100 (Central European Standard Time)', 'duration': 21692}, {'tag': 'u', 'action': 'cibo', 'startDate': '2024-02-28T07:28:57.492Z', 'endDate': 'Wed Feb 28 2024 08:42:11 GMT+0100 (Central European Standard Time)', 'duration': 794299}, {'tag': 'o', 'action': 'web', 'startDate': '2024-02-28T07:42:11.784Z', 'endDate': 'Wed Feb 28 2024 08:43:03 GMT+0100 (Central European Standard Time)', 'duration': 51878}, {'tag': 'o', 'action': 'anki', 'startDate': '2024-02-28T07:43:03.656Z', 'endDate': 'Wed Feb 28 2024 08:48:24 GMT+0100 (Central European Standard Time)', 'duration': 320684}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T07:48:24.328Z', 'endDate': 'Wed Feb 28 2024 08:53:39 GMT+0100 (Central European Standard Time)', 'duration': 315576}, {'tag': 'p', 'action': 'calze', 'startDate': '2024-02-28T07:53:39.887Z', 'endDate': 'Wed Feb 28 2024 08:53:45 GMT+0100 (Central European Standard Time)', 'duration': 5555}, {'tag': 'o', 'action': 'calze', 'startDate': '2024-02-28T07:53:45.436Z', 'endDate': 'Wed Feb 28 2024 08:57:34 GMT+0100 (Central European Standard Time)', 'duration': 228841}, {'tag': 'w', 'action': 'database', 'startDate': '2024-02-28T07:57:34.270Z', 'endDate': 'Wed Feb 28 2024 08:57:42 GMT+0100 (Central European Standard Time)', 'duration': 8541}, {'tag': 'o', 'action': 'database', 'startDate': '2024-02-28T07:57:42.805Z', 'endDate': 'Wed Feb 28 2024 09:05:27 GMT+0100 (Central European Standard Time)', 'duration': 464450}, {'tag': 'w', 'action': 'mail', 'startDate': '2024-02-28T08:05:27.242Z', 'endDate': 'Wed Feb 28 2024 09:08:24 GMT+0100 (Central European Standard Time)', 'duration': 177071}, {'tag': 'o', 'action': 'db', 'startDate': '2024-02-28T08:08:24.302Z', 'endDate': 'Wed Feb 28 2024 09:22:11 GMT+0100 (Central European Standard Time)', 'duration': 826718}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-28T08:22:11.012Z', 'endDate': 'Wed Feb 28 2024 10:04:33 GMT+0100 (Central European Standard Time)', 'duration': 2542644}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T09:04:33.644Z', 'endDate': 'Wed Feb 28 2024 10:06:48 GMT+0100 (Central European Standard Time)', 'duration': 134467}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-28T09:06:48.106Z', 'endDate': 'Wed Feb 28 2024 10:57:41 GMT+0100 (Central European Standard Time)', 'duration': 3053691}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T09:57:41.790Z', 'endDate': 'Wed Feb 28 2024 11:07:37 GMT+0100 (Central European Standard Time)', 'duration': 595803}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-28T10:07:37.579Z', 'endDate': 'Wed Feb 28 2024 13:04:23 GMT+0100 (Central European Standard Time)', 'duration': 7005462}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T12:04:23.035Z', 'endDate': 'Wed Feb 28 2024 13:10:25 GMT+0100 (Central European Standard Time)', 'duration': 362895}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-28T12:10:25.917Z', 'endDate': 'Wed Feb 28 2024 15:00:50 GMT+0100 (Central European Standard Time)', 'duration': 6624209}, {'tag': 'u', 'action': 'cibo', 'startDate': '2024-02-28T14:00:50.113Z', 'endDate': 'Wed Feb 28 2024 15:15:49 GMT+0100 (Central European Standard Time)', 'duration': 899663}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-28T14:15:49.770Z', 'endDate': 'Wed Feb 28 2024 16:43:20 GMT+0100 (Central European Standard Time)', 'duration': 5250421}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T15:43:20.177Z', 'endDate': 'Wed Feb 28 2024 16:50:57 GMT+0100 (Central European Standard Time)', 'duration': 457162}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-28T15:50:57.327Z', 'endDate': 'Wed Feb 28 2024 17:11:50 GMT+0100 (Central European Standard Time)', 'duration': 1252980}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T16:11:50.296Z', 'endDate': 'Wed Feb 28 2024 17:11:55 GMT+0100 (Central European Standard Time)', 'duration': 5581}, {'tag': 'o', 'action': 'windows', 'startDate': '2024-02-28T16:11:55.869Z', 'endDate': 'Wed Feb 28 2024 19:08:50 GMT+0100 (Central European Standard Time)', 'duration': 7014202}, {'tag': 'o', 'action': 'monkey', 'startDate': '2024-02-28T18:08:50.038Z', 'endDate': 'Wed Feb 28 2024 19:34:25 GMT+0100 (Central European Standard Time)', 'duration': 1535373}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T18:34:25.403Z', 'endDate': 'Wed Feb 28 2024 19:39:07 GMT+0100 (Central European Standard Time)', 'duration': 282186}, {'tag': 'p', 'action': 'windows', 'startDate': '2024-02-28T18:39:07.571Z', 'endDate': 'Wed Feb 28 2024 19:49:42 GMT+0100 (Central European Standard Time)', 'duration': 635384}, {'tag': 'u', 'action': 'cibo', 'startDate': '2024-02-28T18:49:42.936Z', 'endDate': 'Wed Feb 28 2024 20:05:46 GMT+0100 (Central European Standard Time)', 'duration': 963768}, {'tag': 'p', 'action': 'windows', 'startDate': '2024-02-28T19:05:46.695Z', 'endDate': 'Wed Feb 28 2024 20:55:37 GMT+0100 (Central European Standard Time)', 'duration': 2990659}, {'tag': 'p', 'action': 'reddit', 'startDate': '2024-02-28T19:55:37.336Z', 'endDate': 'Wed Feb 28 2024 22:14:24 GMT+0100 (Central European Standard Time)', 'duration': 4726905}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T21:14:24.194Z', 'endDate': 'Thu Feb 29 2024 00:22:09 GMT+0100 (Central European Standard Time)', 'duration': 7665003}]127.0.0.1 - - [29/Feb/2024 08:47:09] "GET / HTTP/1.1" 200 -
+[1] 127.0.0.1 - - [29/Feb/2024 08:47:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[0] [0] [
+[0] [0]   {
+[0] [0]     action: 'cibo',
+[0] [0]     startDate: '2024-02-28T07:28:57.492Z',
+[0] [0]     endDate: 2024-02-28T07:42:11.791Z,
+[0] [0]     duration: 794299,
+[0] [0]     tag: 'u'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'web',
+[0] [0]     startDate: '2024-02-28T07:42:11.784Z',
+[0] [0]     endDate: 2024-02-28T07:43:03.662Z,
+[0] [0]     duration: 51878,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'anki',
+[0] [0]     startDate: '2024-02-28T07:43:03.656Z',
+[0] [0]     endDate: 2024-02-28T07:48:24.340Z,
+[0] [0]     duration: 320684,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T07:48:24.328Z',
+[0] [0]     endDate: 2024-02-28T07:53:39.904Z,
+[0] [0]     duration: 315576,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'calze',
+[0] [0]     startDate: '2024-02-28T07:53:39.887Z',
+[0] [0]     endDate: 2024-02-28T07:53:45.442Z,
+[0] [0]     duration: 5555,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'calze',
+[0] [0]     startDate: '2024-02-28T07:53:45.436Z',
+[0] [0]     endDate: 2024-02-28T07:57:34.277Z,
+[0] [0]     duration: 228841,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'database',
+[0] [0]     startDate: '2024-02-28T07:57:34.270Z',
+[0] [0]     endDate: 2024-02-28T07:57:42.811Z,
+[0] [0]     duration: 8541,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'database',
+[0] [0]     startDate: '2024-02-28T07:57:42.805Z',
+[0] [0]     endDate: 2024-02-28T08:05:27.255Z,
+[0] [0]     duration: 464450,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'mail',
+[0] [0]     startDate: '2024-02-28T08:05:27.242Z',
+[0] [0]     endDate: 2024-02-28T08:08:24.313Z,
+[0] [0]     duration: 177071,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'db',
+[0] [0]     startDate: '2024-02-28T08:08:24.302Z',
+[0] [0]     endDate: 2024-02-28T08:22:11.020Z,
+[0] [0]     duration: 826718,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T08:22:11.012Z',
+[0] [0]     endDate: 2024-02-28T09:04:33.656Z,
+[0] [0]     duration: 2542644,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T09:04:33.644Z',
+[0] [0]     endDate: 2024-02-28T09:06:48.111Z,
+[0] [0]     duration: 134467,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T09:06:48.106Z',
+[0] [0]     endDate: 2024-02-28T09:57:41.797Z,
+[0] [0]     duration: 3053691,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T09:57:41.790Z',
+[0] [0]     endDate: 2024-02-28T10:07:37.593Z,
+[0] [0]     duration: 595803,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T10:07:37.579Z',
+[0] [0]     endDate: 2024-02-28T12:04:23.041Z,
+[0] [0]     duration: 7005462,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T12:04:23.035Z',
+[0] [0]     endDate: 2024-02-28T12:10:25.930Z,
+[0] [0]     duration: 362895,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T12:10:25.917Z',
+[0] [0]     endDate: 2024-02-28T14:00:50.126Z,
+[0] [0]     duration: 6624209,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cibo',
+[0] [0]     startDate: '2024-02-28T14:00:50.113Z',
+[0] [0]     endDate: 2024-02-28T14:15:49.776Z,
+[0] [0]     duration: 899663,
+[0] [0]     tag: 'u'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T14:15:49.770Z',
+[0] [0]     endDate: 2024-02-28T15:43:20.191Z,
+[0] [0]     duration: 5250421,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T15:43:20.177Z',
+[0] [0]     endDate: 2024-02-28T15:50:57.339Z,
+[0] [0]     duration: 457162,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T15:50:57.327Z',
+[0] [0]     endDate: 2024-02-28T16:11:50.307Z,
+[0] [0]     duration: 1252980,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T16:11:50.296Z',
+[0] [0]     endDate: 2024-02-28T16:11:55.877Z,
+[0] [0]     duration: 5581,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'windows',
+[0] [0]     startDate: '2024-02-28T16:11:55.869Z',
+[0] [0]     endDate: 2024-02-28T18:08:50.071Z,
+[0] [0]     duration: 7014202,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'monkey',
+[0] [0]     startDate: '2024-02-28T18:08:50.038Z',
+[0] [0]     endDate: 2024-02-28T18:34:25.411Z,
+[0] [0]     duration: 1535373,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T18:34:25.403Z',
+[0] [0]     endDate: 2024-02-28T18:39:07.589Z,
+[0] [0]     duration: 282186,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'windows',
+[0] [0]     startDate: '2024-02-28T18:39:07.571Z',
+[0] [0]     endDate: 2024-02-28T18:49:42.955Z,
+[0] [0]     duration: 635384,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cibo',
+[0] [0]     startDate: '2024-02-28T18:49:42.936Z',
+[0] [0]     endDate: 2024-02-28T19:05:46.704Z,
+[0] [0]     duration: 963768,
+[0] [0]     tag: 'u'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'windows',
+[0] [0]     startDate: '2024-02-28T19:05:46.695Z',
+[0] [0]     endDate: 2024-02-28T19:55:37.354Z,
+[0] [0]     duration: 2990659,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'reddit',
+[0] [0]     startDate: '2024-02-28T19:55:37.336Z',
+[0] [0]     endDate: 2024-02-28T21:14:24.241Z,
+[0] [0]     duration: 4726905,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T21:14:24.194Z',
+[0] [0]     endDate: 2024-02-28T23:22:09.197Z,
+[0] [0]     duration: 7665003,
+[0] [0]     tag: 'w'
+[0] [0]   }
+[0] [0] ] actions
+[0] [0] [
+[0] [0]   {
+[0] [0]     action: 'cibo',
+[0] [0]     startDate: '2024-02-28T07:28:57.492Z',
+[0] [0]     endDate: 2024-02-28T07:42:11.791Z,
+[0] [0]     duration: 794299,
+[0] [0]     tag: 'u'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'web',
+[0] [0]     startDate: '2024-02-28T07:42:11.784Z',
+[0] [0]     endDate: 2024-02-28T07:43:03.662Z,
+[0] [0]     duration: 51878,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'anki',
+[0] [0]     startDate: '2024-02-28T07:43:03.656Z',
+[0] [0]     endDate: 2024-02-28T07:48:24.340Z,
+[0] [0]     duration: 320684,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T07:48:24.328Z',
+[0] [0]     endDate: 2024-02-28T07:53:39.904Z,
+[0] [0]     duration: 315576,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'calze',
+[0] [0]     startDate: '2024-02-28T07:53:39.887Z',
+[0] [0]     endDate: 2024-02-28T07:53:45.442Z,
+[0] [0]     duration: 5555,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'calze',
+[0] [0]     startDate: '2024-02-28T07:53:45.436Z',
+[0] [0]     endDate: 2024-02-28T07:57:34.277Z,
+[0] [0]     duration: 228841,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'database',
+[0] [0]     startDate: '2024-02-28T07:57:34.270Z',
+[0] [0]     endDate: 2024-02-28T07:57:42.811Z,
+[0] [0]     duration: 8541,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'database',
+[0] [0]     startDate: '2024-02-28T07:57:42.805Z',
+[0] [0]     endDate: 2024-02-28T08:05:27.255Z,
+[0] [0]     duration: 464450,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'mail',
+[0] [0]     startDate: '2024-02-28T08:05:27.242Z',
+[0] [0]     endDate: 2024-02-28T08:08:24.313Z,
+[0] [0]     duration: 177071,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'db',
+[0] [0]     startDate: '2024-02-28T08:08:24.302Z',
+[0] [0]     endDate: 2024-02-28T08:22:11.020Z,
+[0] [0]     duration: 826718,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T08:22:11.012Z',
+[0] [0]     endDate: 2024-02-28T09:04:33.656Z,
+[0] [0]     duration: 2542644,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T09:04:33.644Z',
+[0] [0]     endDate: 2024-02-28T09:06:48.111Z,
+[0] [0]     duration: 134467,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T09:06:48.106Z',
+[0] [0]     endDate: 2024-02-28T09:57:41.797Z,
+[0] [0]     duration: 3053691,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T09:57:41.790Z',
+[0] [0]     endDate: 2024-02-28T10:07:37.593Z,
+[0] [0]     duration: 595803,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T10:07:37.579Z',
+[0] [0]     endDate: 2024-02-28T12:04:23.041Z,
+[0] [0]     duration: 7005462,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T12:04:23.035Z',
+[0] [0]     endDate: 2024-02-28T12:10:25.930Z,
+[0] [0]     duration: 362895,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T12:10:25.917Z',
+[0] [0]     endDate: 2024-02-28T14:00:50.126Z,
+[0] [0]     duration: 6624209,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cibo',
+[0] [0]     startDate: '2024-02-28T14:00:50.113Z',
+[0] [0]     endDate: 2024-02-28T14:15:49.776Z,
+[0] [0]     duration: 899663,
+[0] [0]     tag: 'u'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T14:15:49.770Z',
+[0] [0]     endDate: 2024-02-28T15:43:20.191Z,
+[0] [0]     duration: 5250421,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T15:43:20.177Z',
+[0] [0]     endDate: 2024-02-28T15:50:57.339Z,
+[0] [0]     duration: 457162,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cs50',
+[0] [0]     startDate: '2024-02-28T15:50:57.327Z',
+[0] [0]     endDate: 2024-02-28T16:11:50.307Z,
+[0] [0]     duration: 1252980,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T16:11:50.296Z',
+[0] [0]     endDate: 2024-02-28T16:11:55.877Z,
+[0] [0]     duration: 5581,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'windows',
+[0] [0]     startDate: '2024-02-28T16:11:55.869Z',
+[0] [0]     endDate: 2024-02-28T18:08:50.071Z,
+[0] [0]     duration: 7014202,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'monkey',
+[0] [0]     startDate: '2024-02-28T18:08:50.038Z',
+[0] [0]     endDate: 2024-02-28T18:34:25.411Z,
+[0] [0]     duration: 1535373,
+[0] [0]     tag: 'o'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T18:34:25.403Z',
+[0] [0]     endDate: 2024-02-28T18:39:07.589Z,
+[0] [0]     duration: 282186,
+[0] [0]     tag: 'w'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'windows',
+[0] [0]     startDate: '2024-02-28T18:39:07.571Z',
+[0] [0]     endDate: 2024-02-28T18:49:42.955Z,
+[0] [0]     duration: 635384,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'cibo',
+[0] [0]     startDate: '2024-02-28T18:49:42.936Z',
+[0] [0]     endDate: 2024-02-28T19:05:46.704Z,
+[0] [0]     duration: 963768,
+[0] [0]     tag: 'u'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'windows',
+[0] [0]     startDate: '2024-02-28T19:05:46.695Z',
+[0] [0]     endDate: 2024-02-28T19:55:37.354Z,
+[0] [0]     duration: 2990659,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: 'reddit',
+[0] [0]     startDate: '2024-02-28T19:55:37.336Z',
+[0] [0]     endDate: 2024-02-28T21:14:24.241Z,
+[0] [0]     duration: 4726905,
+[0] [0]     tag: 'p'
+[0] [0]   },
+[0] [0]   {
+[0] [0]     action: '',
+[0] [0]     startDate: '2024-02-28T21:14:24.194Z',
+[0] [0]     endDate: 2024-02-28T23:22:09.197Z,
+[0] [0]     duration: 7665003,
+[0] [0]     tag: 'w'
+[0] [0]   }
+[0] [0] ] actions
+[0] [1] npm run client exited with code 0
+[0] [0] npm run server exited with code SIGTERM
+[0] cd /home/nico/active_projects/actions_tracker && npm start exited with code 1
+[1] 
+[1] {'2024-02-23': {'Priority': 4839}, '2024-02-26': {'Unavoidable': 12305817, 'Other-tasks': 11616153, 'Wasted': 40206936, 'Priority': 83640090}, '2024-02-27': {'Unavoidable': 4418499, 'Other-tasks': 48658641, 'Wasted': 55003902, 'Priority': 39351657}, '2024-02-28': {'Unavoidable': 7973190, 'Other-tasks': 31326438, 'Wasted': 30012855, 'Priority': 102263730}} durations_by_day
+[{'tag': 'p', 'action': 'monkey', 'startDate': '2024-02-23T17:50:42.590Z', 'endDate': 'Fri Feb 23 2024 18:50:44 GMT+0100 (Central European Standard Time)', 'duration': 1613}, {'tag': 'u', 'action': 'colazione', 'startDate': '2024-02-26T07:30:31.970Z', 'endDate': 'Mon Feb 26 2024 08:49:05 GMT+0100 (Central European Standard Time)', 'duration': 1113333}, {'tag': 'o', 'action': 'web', 'startDate': '2024-02-26T07:49:05.296Z', 'endDate': 'Mon Feb 26 2024 08:49:34 GMT+0100 (Central European Standard Time)', 'duration': 29181}, {'tag': 'o', 'action': 'anki', 'startDate': '2024-02-26T07:49:34.468Z', 'endDate': 'Mon Feb 26 2024 08:55:33 GMT+0100 (Central European Standard Time)', 'duration': 358592}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T07:55:33.051Z', 'endDate': 'Mon Feb 26 2024 09:19:22 GMT+0100 (Central European Standard Time)', 'duration': 1429614}, {'tag': 'o', 'action': 'fixing rating', 'startDate': '2024-02-26T08:19:22.619Z', 'endDate': 'Mon Feb 26 2024 09:40:01 GMT+0100 (Central European Standard Time)', 'duration': 1239304}, {'tag': 'o', 'action': 'fixing rating', 'startDate': '2024-02-26T09:01:35.445Z', 'endDate': 'Mon Feb 26 2024 10:05:19 GMT+0100 (Central European Standard Time)', 'duration': 224075}, {'tag': 'o', 'action': 'monkey', 'startDate': '2024-02-26T09:05:19.508Z', 'endDate': 'Mon Feb 26 2024 10:29:31 GMT+0100 (Central European Standard Time)', 'duration': 1452158}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T09:29:31.653Z', 'endDate': 'Mon Feb 26 2024 10:38:01 GMT+0100 (Central European Standard Time)', 'duration': 509453}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-26T09:38:01.098Z', 'endDate': 'Mon Feb 26 2024 10:46:48 GMT+0100 (Central European Standard Time)', 'duration': 527729}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T09:46:48.819Z', 'endDate': 'Mon Feb 26 2024 11:00:59 GMT+0100 (Central European Standard Time)', 'duration': 850181}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-26T10:00:58.995Z', 'endDate': 'Mon Feb 26 2024 12:01:09 GMT+0100 (Central European Standard Time)', 'duration': 3610781}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T11:01:09.768Z', 'endDate': 'Mon Feb 26 2024 12:34:56 GMT+0100 (Central European Standard Time)', 'duration': 2027084}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-26T11:34:56.846Z', 'endDate': 'Mon Feb 26 2024 13:48:29 GMT+0100 (Central European Standard Time)', 'duration': 4412290}, {'tag': 'u', 'action': 'cibo', 'startDate': '2024-02-26T12:48:29.129Z', 'endDate': 'Mon Feb 26 2024 14:08:41 GMT+0100 (Central European Standard Time)', 'duration': 1212228}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-26T13:08:41.351Z', 'endDate': 'Mon Feb 26 2024 16:29:04 GMT+0100 (Central European Standard Time)', 'duration': 8422852}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T15:29:04.196Z', 'endDate': 'Mon Feb 26 2024 16:31:45 GMT+0100 (Central European Standard Time)', 'duration': 161374}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-26T15:31:45.557Z', 'endDate': 'Mon Feb 26 2024 18:06:17 GMT+0100 (Central European Standard Time)', 'duration': 5671684}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T17:06:17.219Z', 'endDate': 'Mon Feb 26 2024 18:29:38 GMT+0100 (Central European Standard Time)', 'duration': 1400998}, {'tag': 'p', 'action': 'cs', 'startDate': '2024-02-26T17:29:38.210Z', 'endDate': 'Mon Feb 26 2024 19:56:52 GMT+0100 (Central European Standard Time)', 'duration': 5234694}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T18:56:52.892Z', 'endDate': 'Mon Feb 26 2024 20:11:17 GMT+0100 (Central European Standard Time)', 'duration': 864699}, {'tag': 'u', 'action': 'cibo', 'startDate': '2024-02-26T19:11:17.582Z', 'endDate': 'Mon Feb 26 2024 20:40:53 GMT+0100 (Central European Standard Time)', 'duration': 1776378}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-26T19:40:53.952Z', 'endDate': 'Mon Feb 26 2024 22:23:32 GMT+0100 (Central European Standard Time)', 'duration': 6158909}, {'tag': 'o', 'action': 'push', 'startDate': '2024-02-26T21:23:32.850Z', 'endDate': 'Mon Feb 26 2024 22:33:01 GMT+0100 (Central European Standard Time)', 'duration': 568741}, {'tag': 'u', 'action': 'cibo', 'startDate': '2024-02-27T07:33:17.625Z', 'endDate': 'Tue Feb 27 2024 08:39:42 GMT+0100 (Central European Standard Time)', 'duration': 384746}, {'tag': 'o', 'action': 'web', 'startDate': '2024-02-27T07:39:42.365Z', 'endDate': 'Tue Feb 27 2024 08:43:44 GMT+0100 (Central European Standard Time)', 'duration': 242025}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T07:43:44.376Z', 'endDate': 'Tue Feb 27 2024 08:58:10 GMT+0100 (Central European Standard Time)', 'duration': 866326}, {'tag': 'o', 'action': 'anki', 'startDate': '2024-02-27T07:58:10.693Z', 'endDate': 'Tue Feb 27 2024 09:02:39 GMT+0100 (Central European Standard Time)', 'duration': 268796}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T08:02:39.478Z', 'endDate': 'Tue Feb 27 2024 09:02:54 GMT+0100 (Central European Standard Time)', 'duration': 15116}, {'tag': 'o', 'action': 'monkey', 'startDate': '2024-02-27T08:02:54.586Z', 'endDate': 'Tue Feb 27 2024 09:28:43 GMT+0100 (Central European Standard Time)', 'duration': 1548758}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T08:28:43.069Z', 'endDate': 'Tue Feb 27 2024 09:45:41 GMT+0100 (Central European Standard Time)', 'duration': 1018221}, {'tag': 'o', 'action': 'pull', 'startDate': '2024-02-27T08:45:41.283Z', 'endDate': 'Tue Feb 27 2024 09:46:41 GMT+0100 (Central European Standard Time)', 'duration': 60435}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T08:46:41.691Z', 'endDate': 'Tue Feb 27 2024 09:47:50 GMT+0100 (Central European Standard Time)', 'duration': 68571}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-27T08:47:50.254Z', 'endDate': 'Tue Feb 27 2024 10:24:04 GMT+0100 (Central European Standard Time)', 'duration': 2174193}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T09:24:04.435Z', 'endDate': 'Tue Feb 27 2024 10:38:14 GMT+0100 (Central European Standard Time)', 'duration': 850393}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-27T09:38:14.815Z', 'endDate': 'Tue Feb 27 2024 10:38:31 GMT+0100 (Central European Standard Time)', 'duration': 16629}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T09:38:31.435Z', 'endDate': 'Tue Feb 27 2024 10:56:15 GMT+0100 (Central European Standard Time)', 'duration': 1064033}, {'tag': 'w', 'action': 'cs50', 'startDate': '2024-02-27T09:56:15.455Z', 'endDate': 'Tue Feb 27 2024 10:56:19 GMT+0100 (Central European Standard Time)', 'duration': 4013}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-27T09:56:19.464Z', 'endDate': 'Tue Feb 27 2024 11:01:40 GMT+0100 (Central European Standard Time)', 'duration': 320797}, {'tag': 'o', 'action': 'meditation', 'startDate': '2024-02-27T10:01:40.247Z', 'endDate': 'Tue Feb 27 2024 11:28:56 GMT+0100 (Central European Standard Time)', 'duration': 1635799}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T10:28:56.037Z', 'endDate': 'Tue Feb 27 2024 14:04:31 GMT+0100 (Central European Standard Time)', 'duration': 9335573}, {'tag': 'o', 'action': 'shower', 'startDate': '2024-02-27T13:04:31.597Z', 'endDate': 'Tue Feb 27 2024 17:28:19 GMT+0100 (Central European Standard Time)', 'duration': 12228079}, {'tag': 'o', 'action': 'graph', 'startDate': '2024-02-27T16:28:19.657Z', 'endDate': 'Tue Feb 27 2024 17:30:02 GMT+0100 (Central European Standard Time)', 'duration': 103196}, {'tag': 'o', 'action': 'fitactive', 'startDate': '2024-02-27T16:30:02.842Z', 'endDate': 'Tue Feb 27 2024 17:32:15 GMT+0100 (Central European Standard Time)', 'duration': 132459}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T16:32:15.293Z', 'endDate': 'Tue Feb 27 2024 18:22:43 GMT+0100 (Central European Standard Time)', 'duration': 3027819}, {'tag': 'p', 'action': 'cs', 'startDate': '2024-02-27T17:22:43.107Z', 'endDate': 'Tue Feb 27 2024 19:50:14 GMT+0100 (Central European Standard Time)', 'duration': 5251167}, {'tag': 'u', 'action': 'cibo', 'startDate': '2024-02-27T18:50:14.243Z', 'endDate': 'Tue Feb 27 2024 20:08:22 GMT+0100 (Central European Standard Time)', 'duration': 1088087}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-27T19:08:22.318Z', 'endDate': 'Tue Feb 27 2024 20:25:49 GMT+0100 (Central European Standard Time)', 'duration': 1047506}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T19:25:49.815Z', 'endDate': 'Tue Feb 27 2024 20:29:14 GMT+0100 (Central European Standard Time)', 'duration': 204484}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-27T19:29:14.292Z', 'endDate': 'Tue Feb 27 2024 20:41:13 GMT+0100 (Central European Standard Time)', 'duration': 719428}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T19:41:13.710Z', 'endDate': 'Tue Feb 27 2024 21:12:12 GMT+0100 (Central European Standard Time)', 'duration': 1858393}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-27T20:12:12.086Z', 'endDate': 'Tue Feb 27 2024 22:11:59 GMT+0100 (Central European Standard Time)', 'duration': 3587499}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-27T21:11:59.578Z', 'endDate': 'Tue Feb 27 2024 22:12:21 GMT+0100 (Central European Standard Time)', 'duration': 21692}, {'tag': 'u', 'action': 'cibo', 'startDate': '2024-02-28T07:28:57.492Z', 'endDate': 'Wed Feb 28 2024 08:42:11 GMT+0100 (Central European Standard Time)', 'duration': 794299}, {'tag': 'o', 'action': 'web', 'startDate': '2024-02-28T07:42:11.784Z', 'endDate': 'Wed Feb 28 2024 08:43:03 GMT+0100 (Central European Standard Time)', 'duration': 51878}, {'tag': 'o', 'action': 'anki', 'startDate': '2024-02-28T07:43:03.656Z', 'endDate': 'Wed Feb 28 2024 08:48:24 GMT+0100 (Central European Standard Time)', 'duration': 320684}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T07:48:24.328Z', 'endDate': 'Wed Feb 28 2024 08:53:39 GMT+0100 (Central European Standard Time)', 'duration': 315576}, {'tag': 'p', 'action': 'calze', 'startDate': '2024-02-28T07:53:39.887Z', 'endDate': 'Wed Feb 28 2024 08:53:45 GMT+0100 (Central European Standard Time)', 'duration': 5555}, {'tag': 'o', 'action': 'calze', 'startDate': '2024-02-28T07:53:45.436Z', 'endDate': 'Wed Feb 28 2024 08:57:34 GMT+0100 (Central European Standard Time)', 'duration': 228841}, {'tag': 'w', 'action': 'database', 'startDate': '2024-02-28T07:57:34.270Z', 'endDate': 'Wed Feb 28 2024 08:57:42 GMT+0100 (Central European Standard Time)', 'duration': 8541}, {'tag': 'o', 'action': 'database', 'startDate': '2024-02-28T07:57:42.805Z', 'endDate': 'Wed Feb 28 2024 09:05:27 GMT+0100 (Central European Standard Time)', 'duration': 464450}, {'tag': 'w', 'action': 'mail', 'startDate': '2024-02-28T08:05:27.242Z', 'endDate': 'Wed Feb 28 2024 09:08:24 GMT+0100 (Central European Standard Time)', 'duration': 177071}, {'tag': 'o', 'action': 'db', 'startDate': '2024-02-28T08:08:24.302Z', 'endDate': 'Wed Feb 28 2024 09:22:11 GMT+0100 (Central European Standard Time)', 'duration': 826718}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-28T08:22:11.012Z', 'endDate': 'Wed Feb 28 2024 10:04:33 GMT+0100 (Central European Standard Time)', 'duration': 2542644}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T09:04:33.644Z', 'endDate': 'Wed Feb 28 2024 10:06:48 GMT+0100 (Central European Standard Time)', 'duration': 134467}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-28T09:06:48.106Z', 'endDate': 'Wed Feb 28 2024 10:57:41 GMT+0100 (Central European Standard Time)', 'duration': 3053691}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T09:57:41.790Z', 'endDate': 'Wed Feb 28 2024 11:07:37 GMT+0100 (Central European Standard Time)', 'duration': 595803}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-28T10:07:37.579Z', 'endDate': 'Wed Feb 28 2024 13:04:23 GMT+0100 (Central European Standard Time)', 'duration': 7005462}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T12:04:23.035Z', 'endDate': 'Wed Feb 28 2024 13:10:25 GMT+0100 (Central European Standard Time)', 'duration': 362895}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-28T12:10:25.917Z', 'endDate': 'Wed Feb 28 2024 15:00:50 GMT+0100 (Central European Standard Time)', 'duration': 6624209}, {'tag': 'u', 'action': 'cibo', 'startDate': '2024-02-28T14:00:50.113Z', 'endDate': 'Wed Feb 28 2024 15:15:49 GMT+0100 (Central European Standard Time)', 'duration': 899663}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-28T14:15:49.770Z', 'endDate': 'Wed Feb 28 2024 16:43:20 GMT+0100 (Central European Standard Time)', 'duration': 5250421}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T15:43:20.177Z', 'endDate': 'Wed Feb 28 2024 16:50:57 GMT+0100 (Central European Standard Time)', 'duration': 457162}, {'tag': 'p', 'action': 'cs50', 'startDate': '2024-02-28T15:50:57.327Z', 'endDate': 'Wed Feb 28 2024 17:11:50 GMT+0100 (Central European Standard Time)', 'duration': 1252980}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T16:11:50.296Z', 'endDate': 'Wed Feb 28 2024 17:11:55 GMT+0100 (Central European Standard Time)', 'duration': 5581}, {'tag': 'o', 'action': 'windows', 'startDate': '2024-02-28T16:11:55.869Z', 'endDate': 'Wed Feb 28 2024 19:08:50 GMT+0100 (Central European Standard Time)', 'duration': 7014202}, {'tag': 'o', 'action': 'monkey', 'startDate': '2024-02-28T18:08:50.038Z', 'endDate': 'Wed Feb 28 2024 19:34:25 GMT+0100 (Central European Standard Time)', 'duration': 1535373}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T18:34:25.403Z', 'endDate': 'Wed Feb 28 2024 19:39:07 GMT+0100 (Central European Standard Time)', 'duration': 282186}, {'tag': 'p', 'action': 'windows', 'startDate': '2024-02-28T18:39:07.571Z', 'endDate': 'Wed Feb 28 2024 19:49:42 GMT+0100 (Central European Standard Time)', 'duration': 635384}, {'tag': 'u', 'action': 'cibo', 'startDate': '2024-02-28T18:49:42.936Z', 'endDate': 'Wed Feb 28 2024 20:05:46 GMT+0100 (Central European Standard Time)', 'duration': 963768}, {'tag': 'p', 'action': 'windows', 'startDate': '2024-02-28T19:05:46.695Z', 'endDate': 'Wed Feb 28 2024 20:55:37 GMT+0100 (Central European Standard Time)', 'duration': 2990659}, {'tag': 'p', 'action': 'reddit', 'startDate': '2024-02-28T19:55:37.336Z', 'endDate': 'Wed Feb 28 2024 22:14:24 GMT+0100 (Central European Standard Time)', 'duration': 4726905}, {'tag': 'w', 'action': nan, 'startDate': '2024-02-28T21:14:24.194Z', 'endDate': 'Thu Feb 29 2024 00:22:09 GMT+0100 (Central European Standard Time)', 'duration': 7665003}]127.0.0.1 - - [29/Feb/2024 12:40:01] "GET / HTTP/1.1" 200 -
+[1] 127.0.0.1 - - [29/Feb/2024 12:40:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[1] cd /home/nico/active_projects/analyser_actions && /home/nico/.local/bin/flask run --host=0.0.0.0 --port=50000 exited with code SIGTERM
+[2] cd /home/nico/active_projects/ratingDist && python main.py exited with code SIGTERM
+[0] 
+[0] > actions-tracker@1.0.0 start
+[0] > concurrently "npm run server" "npm run client"
+[0] 
+[1]  * Debug mode: off
+[1] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+[1]  * Running on all addresses (0.0.0.0)
+[1]  * Running on http://127.0.0.1:50000
+[1]  * Running on http://127.0.0.1:50000
+[1] Press CTRL+C to quit
+[0] [1] 
+[0] [1] > actions-tracker@1.0.0 client
+[0] [1] > cd client && npm run dev
+[0] [1] 
+[0] [0] 
+[0] [0] > actions-tracker@1.0.0 server
+[0] [0] > cd server && npm run start
+[0] [0] 
+[0] [1] 
+[0] [1] > actions-tracker@0.0.0 dev
+[0] [1] > vite
+[0] [1] 
+[0] [0] 
+[0] [0] > server@1.0.0 start
+[0] [0] > node server
+[0] [0] 
+[0] [0] Server running on port 50001
+[0] [1] 
+[0] [1]   VITE v5.1.3  ready in 342 ms
+[0] [1] 
+[0] [1]   ➜  Local:   http://localhost:50002/
+[0] [1]   ➜  Network: use --host to expose
+[1] cd /home/nico/active_projects/analyser_actions && /home/nico/.local/bin/flask run --host=0.0.0.0 --port=50000 exited with code SIGTERM
+[0] [1] npm run client exited with code SIGHUP
+[0] [0] npm run server exited with code SIGHUP
+[0] cd /home/nico/active_projects/actions_tracker && npm start exited with code SIGHUP
+[2] cd /home/nico/active_projects/ratingDist && python main.py exited with code SIGTERM
+[0] 
+[0] > actions-tracker@1.0.0 start
+[0] > concurrently "npm run server" "npm run client"
+[0] 
+[0] [0] 
+[0] [0] > actions-tracker@1.0.0 server
+[0] [0] > cd server && npm run start
+[0] [0] 
+[1]  * Debug mode: off
+[1] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+[1]  * Running on all addresses (0.0.0.0)
+[1]  * Running on http://127.0.0.1:50000
+[1]  * Running on http://127.0.0.1:50000
+[1] Press CTRL+C to quit
+[0] [1] 
+[0] [1] > actions-tracker@1.0.0 client
+[0] [1] > cd client && npm run dev
+[0] [1] 
+[0] [0] 
+[0] [0] > server@1.0.0 start
+[0] [0] > node server
+[0] [0] 
+[0] [1] 
+[0] [1] > actions-tracker@0.0.0 dev
+[0] [1] > vite
+[0] [1] 
+[0] [0] Server running on port 50001
+[0] [1] 
+[0] [1]   VITE v5.1.3  ready in 313 ms
+[0] [1] 
+[0] [1]   ➜  Local:   http://localhost:50002/
+[0] [1]   ➜  Network: use --host to expose
+[1] cd /home/nico/active_projects/analyser_actions && /home/nico/.local/bin/flask run --host=0.0.0.0 --port=50000 exited with code SIGTERM
+[0] [1] npm run client exited with code SIGHUP
+[0] [0] npm run server exited with code SIGHUP
+[0] cd /home/nico/active_projects/actions_tracker && npm start exited with code SIGHUP
+[2] cd /home/nico/active_projects/ratingDist && python main.py exited with code SIGTERM
+[0] 
+[0] > actions-tracker@1.0.0 start
+[0] > concurrently "npm run server" "npm run client"
+[0] 
+[0] [1] 
+[0] [1] > actions-tracker@1.0.0 client
+[0] [1] > cd client && npm run dev
+[0] [1] 
+[0] [0] 
+[0] [0] > actions-tracker@1.0.0 server
+[0] [0] > cd server && npm run start
+[0] [0] 
+[1]  * Debug mode: off
+[1] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+[1]  * Running on all addresses (0.0.0.0)
+[1]  * Running on http://127.0.0.1:50000
+[1]  * Running on http://127.0.0.1:50000
+[1] Press CTRL+C to quit
+[0] [0] 
+[0] [0] > server@1.0.0 start
+[0] [0] > node server
+[0] [0] 
+[0] [1] 
+[0] [1] > actions-tracker@0.0.0 dev
+[0] [1] > vite
+[0] [1] 
+[0] [0] Server running on port 50001
+[0] [1] 
+[0] [1]   VITE v5.1.3  ready in 318 ms
+[0] [1] 
+[0] [1]   ➜  Local:   http://localhost:50002/
+[0] [1]   ➜  Network: use --host to expose
+[1] cd /home/nico/active_projects/analyser_actions && /home/nico/.local/bin/flask run --host=0.0.0.0 --port=50000 exited with code SIGTERM
+[0] [1] npm run client exited with code SIGHUP
+[0] [0] npm run server exited with code SIGHUP
+[0] cd /home/nico/active_projects/actions_tracker && npm start exited with code SIGHUP
+[2] cd /home/nico/active_projects/ratingDist && python main.py exited with code SIGTERM
+[0] 
+[0] > actions-tracker@1.0.0 start
+[0] > concurrently "npm run server" "npm run client"
+[0] 
+[0] [1] 
+[0] [1] > actions-tracker@1.0.0 client
+[0] [1] > cd client && npm run dev
+[0] [1] 
+[0] [0] 
+[0] [0] > actions-tracker@1.0.0 server
+[0] [0] > cd server && npm run start
+[0] [0] 
+[1]  * Debug mode: off
+[1] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+[1]  * Running on all addresses (0.0.0.0)
+[1]  * Running on http://127.0.0.1:50000
+[1]  * Running on http://127.0.0.1:50000
+[1] Press CTRL+C to quit
+[0] [1] 
+[0] [1] > actions-tracker@0.0.0 dev
+[0] [1] > vite
+[0] [1] 
+[0] [0] 
+[0] [0] > server@1.0.0 start
+[0] [0] > node server
+[0] [0] 
+[0] [0] Server running on port 50001
+[0] [1] 
+[0] [1]   VITE v5.1.3  ready in 370 ms
+[0] [1] 
+[0] [1]   ➜  Local:   http://localhost:50002/
+[0] [1]   ➜  Network: use --host to expose
+[1] cd /home/nico/active_projects/analyser_actions && /home/nico/.local/bin/flask run --host=0.0.0.0 --port=50000 exited with code SIGTERM
+[0] [0] npm run server exited with code SIGHUP
+[0] [1] npm run client exited with code SIGHUP
+[0] cd /home/nico/active_projects/actions_tracker && npm start exited with code SIGHUP
+[2] cd /home/nico/active_projects/ratingDist && python main.py exited with code SIGTERM
+[0] 
+[0] > actions-tracker@1.0.0 start
+[0] > concurrently "npm run server" "npm run client"
+[0] 
+[1]  * Debug mode: off
+[1] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+[1]  * Running on all addresses (0.0.0.0)
+[1]  * Running on http://127.0.0.1:50000
+[1]  * Running on http://127.0.0.1:50000
+[1] Press CTRL+C to quit
+[0] [0] 
+[0] [0] > actions-tracker@1.0.0 server
+[0] [0] > cd server && npm run start
+[0] [0] 
+[0] [1] 
+[0] [1] > actions-tracker@1.0.0 client
+[0] [1] > cd client && npm run dev
+[0] [1] 
+[0] [0] 
+[0] [0] > server@1.0.0 start
+[0] [0] > node server
+[0] [0] 
+[0] [1] 
+[0] [1] > actions-tracker@0.0.0 dev
+[0] [1] > vite
+[0] [1] 
+[0] [0] Server running on port 50001
+[0] [1] 
+[0] [1]   VITE v5.1.3  ready in 224 ms
+[0] [1] 
+[0] [1]   ➜  Local:   http://localhost:50002/
+[0] [1]   ➜  Network: use --host to expose
+[1] cd /home/nico/active_projects/analyser_actions && /home/nico/.local/bin/flask run --host=0.0.0.0 --port=50000 exited with code SIGTERM
+[0] [1] npm run client exited with code SIGHUP
+[0] [0] npm run server exited with code SIGHUP
+[0] cd /home/nico/active_projects/actions_tracker && npm start exited with code SIGHUP
+[2] cd /home/nico/active_projects/ratingDist && python main.py exited with code SIGTERM
+[0] 
+[0] > actions-tracker@1.0.0 start
+[0] > concurrently "npm run server" "npm run client"
+[0] 
+[0] [1] 
+[0] [1] > actions-tracker@1.0.0 client
+[0] [1] > cd client && npm run dev
+[0] [1] 
+[0] [0] 
+[0] [0] > actions-tracker@1.0.0 server
+[0] [0] > cd server && npm run start
+[0] [0] 
+[1]  * Debug mode: off
+[1] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+[1]  * Running on all addresses (0.0.0.0)
+[1]  * Running on http://127.0.0.1:50000
+[1]  * Running on http://127.0.0.1:50000
+[1] Press CTRL+C to quit
+[0] [1] 
+[0] [1] > actions-tracker@0.0.0 dev
+[0] [1] > vite
+[0] [1] 
+[0] [0] 
+[0] [0] > server@1.0.0 start
+[0] [0] > node server
+[0] [0] 
+[0] [0] Server running on port 50001
+[0] [1] 
+[0] [1]   VITE v5.1.3  ready in 351 ms
+[0] [1] 
+[0] [1]   ➜  Local:   http://localhost:50002/
+[0] [1]   ➜  Network: use --host to expose
+[1] cd /home/nico/active_projects/analyser_actions && /home/nico/.local/bin/flask run --host=0.0.0.0 --port=50000 exited with code SIGTERM
+[0] [1] npm run client exited with code SIGHUP
+[0] [0] npm run server exited with code SIGHUP
+[0] cd /home/nico/active_projects/actions_tracker && npm start exited with code SIGHUP
+[2] cd /home/nico/active_projects/ratingDist && python main.py exited with code SIGTERM
+[0] 
+[0] > actions-tracker@1.0.0 start
+[0] > concurrently "npm run server" "npm run client"
+[0] 
+[0] [0] 
+[0] [0] > actions-tracker@1.0.0 server
+[0] [0] > cd server && npm run start
+[0] [0] 
+[0] [1] 
+[0] [1] > actions-tracker@1.0.0 client
+[0] [1] > cd client && npm run dev
+[0] [1] 
+[1]  * Debug mode: off
+[1] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+[1]  * Running on all addresses (0.0.0.0)
+[1]  * Running on http://127.0.0.1:50000
+[1]  * Running on http://127.0.0.1:50000
+[1] Press CTRL+C to quit
+[0] [1] 
+[0] [1] > actions-tracker@0.0.0 dev
+[0] [1] > vite
+[0] [1] 
+[0] [0] 
+[0] [0] > server@1.0.0 start
+[0] [0] > node server
+[0] [0] 
+[0] [0] Server running on port 50001
+[0] [1] 
+[0] [1]   VITE v5.1.3  ready in 271 ms
+[0] [1] 
+[0] [1]   ➜  Local:   http://localhost:50002/
+[0] [1]   ➜  Network: use --host to expose
+[1] cd /home/nico/active_projects/analyser_actions && /home/nico/.local/bin/flask run --host=0.0.0.0 --port=50000 exited with code SIGTERM
+[0] [1] npm run client exited with code SIGHUP
+[0] [0] npm run server exited with code SIGHUP
+[0] cd /home/nico/active_projects/actions_tracker && npm start exited with code SIGHUP
+[2] cd /home/nico/active_projects/ratingDist && python main.py exited with code SIGTERM
+[0] 
+[0] > actions-tracker@1.0.0 start
+[0] > concurrently "npm run server" "npm run client"
+[0] 
+[0] [1] 
+[0] [1] > actions-tracker@1.0.0 client
+[0] [1] > cd client && npm run dev
+[0] [1] 
+[0] [0] 
+[0] [0] > actions-tracker@1.0.0 server
+[0] [0] > cd server && npm run start
+[0] [0] 
+[1]  * Debug mode: off
+[1] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+[1]  * Running on all addresses (0.0.0.0)
+[1]  * Running on http://127.0.0.1:50000
+[1]  * Running on http://192.168.1.104:50000
+[1] Press CTRL+C to quit
+[0] [1] 
+[0] [1] > actions-tracker@0.0.0 dev
+[0] [1] > vite
+[0] [1] 
+[0] [0] 
+[0] [0] > server@1.0.0 start
+[0] [0] > node server
+[0] [0] 
+[0] [0] Server running on port 50001
+[0] [1] 
+[0] [1]   VITE v5.1.3  ready in 359 ms
+[0] [1] 
+[0] [1]   ➜  Local:   http://localhost:50002/
+[0] [1]   ➜  Network: use --host to expose
+[2] Starting at 16:21:36 02/29/24 CET 1709220096.8400402
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 16.59817671775818 seconds --- saved 4190 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 58.36880803108215 seconds --- saved 22899 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 88.96547317504883 seconds --- saved 29185 games
+[2] Error fetching games: 'tcn'
+[2] --- 116.04524612426758 seconds --- saved 22277 games
+[2] Error fetching games: 'tcn'
+[2] --- 141.29186010360718 seconds --- saved 17419 games
+[2] Error fetching games: 'tcn'
+[2] --- 166.6147358417511 seconds --- saved 17927 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 190.82448935508728 seconds --- saved 22134 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 215.3257758617401 seconds --- saved 22981 games
+[2] Error fetching games: 'tcn'
+[2] --- 240.87193155288696 seconds --- saved 23269 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 269.504665851593 seconds --- saved 24155 games
+[2] Error fetching games: 'tcn'
+[2] --- 297.25886487960815 seconds --- saved 24266 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 326.0424807071686 seconds --- saved 27348 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 350.2909252643585 seconds --- saved 22102 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 374.9453592300415 seconds --- saved 25840 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 401.26611614227295 seconds --- saved 23366 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 424.282603263855 seconds --- saved 22997 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 449.84724283218384 seconds --- saved 23103 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 473.6729693412781 seconds --- saved 24043 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 499.8632137775421 seconds --- saved 27936 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 525.383588552475 seconds --- saved 31530 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 549.3803277015686 seconds --- saved 29053 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 574.7852711677551 seconds --- saved 28705 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 601.8807311058044 seconds --- saved 18940 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 629.1751501560211 seconds --- saved 22402 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 655.6956057548523 seconds --- saved 31986 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 681.8370480537415 seconds --- saved 22249 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 709.9310030937195 seconds --- saved 17572 games
+[2] Error fetching games: 'tcn'
+[2] --- 738.5755479335785 seconds --- saved 30350 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 767.2746357917786 seconds --- saved 29549 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 793.2739598751068 seconds --- saved 27358 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 821.5394859313965 seconds --- saved 27017 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 848.7313098907471 seconds --- saved 22466 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 875.4447972774506 seconds --- saved 27849 games
+[2] Error fetching games: 'tcn'
+[2] --- 902.9094388484955 seconds --- saved 29631 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 929.6999268531799 seconds --- saved 29975 games
+[2] --- 955.57031083107 seconds --- saved 31065 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 980.1639387607574 seconds --- saved 22053 games
+[2] --- 1006.8177669048309 seconds --- saved 35254 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1035.470841884613 seconds --- saved 30171 games
+[2] Error fetching games: 'tcn'
+[2] --- 1064.154466867447 seconds --- saved 23743 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1091.2927377223969 seconds --- saved 24126 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1118.5188717842102 seconds --- saved 24872 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1145.8180837631226 seconds --- saved 29226 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1173.9504699707031 seconds --- saved 26766 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1200.544039964676 seconds --- saved 29281 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1228.4029185771942 seconds --- saved 30901 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1256.4549102783203 seconds --- saved 29413 games
+[2] Error fetching games: 'tcn'
+[2] --- 1284.448293209076 seconds --- saved 30879 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1320.376146554947 seconds --- saved 30115 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1349.2536888122559 seconds --- saved 33528 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[1] cd /home/nico/active_projects/analyser_actions && /home/nico/.local/bin/flask run --host=0.0.0.0 --port=50000 exited with code SIGTERM
+[0] [1] npm run client exited with code SIGHUP
+[0] [0] npm run server exited with code SIGHUP
+[0] cd /home/nico/active_projects/actions_tracker && npm start exited with code SIGHUP
+[2] cd /home/nico/active_projects/ratingDist && python main.py exited with code SIGTERM
+[0] 
+[0] > actions-tracker@1.0.0 start
+[0] > concurrently "npm run server" "npm run client"
+[0] 
+[1]  * Debug mode: off
+[0] [1] 
+[0] [1] > actions-tracker@1.0.0 client
+[0] [1] > cd client && npm run dev
+[0] [1] 
+[1] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+[1]  * Running on all addresses (0.0.0.0)
+[1]  * Running on http://127.0.0.1:50000
+[1]  * Running on http://192.168.1.104:50000
+[1] Press CTRL+C to quit
+[0] [0] 
+[0] [0] > actions-tracker@1.0.0 server
+[0] [0] > cd server && npm run start
+[0] [0] 
+[0] [1] 
+[0] [1] > actions-tracker@0.0.0 dev
+[0] [1] > vite
+[0] [1] 
+[0] [0] 
+[0] [0] > server@1.0.0 start
+[0] [0] > node server
+[0] [0] 
+[0] [0] Server running on port 50001
+[0] [1] 
+[0] [1]   VITE v5.1.3  ready in 425 ms
+[0] [1] 
+[0] [1]   ➜  Local:   http://localhost:50002/
+[0] [1]   ➜  Network: use --host to expose
+[2] Starting at 16:59:22 02/29/24 CET 1709222362.2738016
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 27.925965547561646 seconds --- saved 21979 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 53.42725133895874 seconds --- saved 18682 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 78.32673144340515 seconds --- saved 24866 games
+[2] Error fetching games: 'tcn'
+[2] --- 102.87698888778687 seconds --- saved 21665 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 128.8408181667328 seconds --- saved 30441 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 158.48687052726746 seconds --- saved 28298 games
+[2] Error fetching games: 'tcn'
+[2] --- 185.1251518726349 seconds --- saved 17998 games
+[2] Error fetching games: 'tcn'
+[2] --- 209.88015294075012 seconds --- saved 30061 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 234.29265880584717 seconds --- saved 25016 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 259.2619080543518 seconds --- saved 26797 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 282.8105375766754 seconds --- saved 19843 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 306.94559478759766 seconds --- saved 23576 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 332.0141215324402 seconds --- saved 19747 games
+[2] Error fetching games: 'tcn'
+[2] --- 356.72843766212463 seconds --- saved 29155 games
+[2] Error fetching games: 'tcn'
+[2] --- 380.2884409427643 seconds --- saved 23224 games
+[2] Error fetching games: 'tcn'
+[2] --- 405.16842007637024 seconds --- saved 26457 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 472.24905490875244 seconds --- saved 61408 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 499.7371029853821 seconds --- saved 27852 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 529.0119619369507 seconds --- saved 23611 games
+[2] --- 557.4997689723969 seconds --- saved 20468 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 586.353837966919 seconds --- saved 21824 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 613.6399466991425 seconds --- saved 22889 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 641.6058723926544 seconds --- saved 24518 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 673.4946670532227 seconds --- saved 34787 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 702.4508347511292 seconds --- saved 33235 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 732.0739452838898 seconds --- saved 22680 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 757.9979360103607 seconds --- saved 22075 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 784.2929048538208 seconds --- saved 20814 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 810.1292817592621 seconds --- saved 29502 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 840.5397191047668 seconds --- saved 26162 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 867.5818152427673 seconds --- saved 23882 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 893.561717748642 seconds --- saved 16036 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 918.8350639343262 seconds --- saved 26284 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 947.3739833831787 seconds --- saved 26275 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 972.658814907074 seconds --- saved 19387 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1000.2716205120087 seconds --- saved 27800 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1025.3612291812897 seconds --- saved 26002 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1051.6713976860046 seconds --- saved 28088 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1075.361734867096 seconds --- saved 19631 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1101.5190196037292 seconds --- saved 24658 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1124.9200739860535 seconds --- saved 20719 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1150.7062430381775 seconds --- saved 24780 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1182.6556572914124 seconds --- saved 28026 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1213.3252720832825 seconds --- saved 30774 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1240.7285015583038 seconds --- saved 32466 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1266.6724848747253 seconds --- saved 26319 games
+[2] Error fetching games: 'tcn'
+--- 1291.3571212291718 seconds --- saved 21558 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1318.7647106647491 seconds --- saved 24928 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1351.6653141975403 seconds --- saved 23146 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1378.2222368717194 seconds --- saved 18575 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1406.5796687602997 seconds --- saved 21647 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1435.8602068424225 seconds --- saved 18869 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1463.353904247284 seconds --- saved 27841 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1494.522650718689 seconds --- saved 25811 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1519.5502390861511 seconds --- saved 29508 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1546.216634273529 seconds --- saved 23769 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1571.4823286533356 seconds --- saved 24470 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1598.7880713939667 seconds --- saved 25200 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1620.8589146137238 seconds --- saved 16270 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1641.149908542633 seconds --- saved 14165 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1661.0522270202637 seconds --- saved 14951 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1681.556114912033 seconds --- saved 18189 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1701.7621631622314 seconds --- saved 14716 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1725.293051481247 seconds --- saved 16274 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1745.2176086902618 seconds --- saved 17787 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1766.359709739685 seconds --- saved 14253 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1785.9946584701538 seconds --- saved 16368 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1807.9822793006897 seconds --- saved 20046 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1826.735186100006 seconds --- saved 8985 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1847.8603866100311 seconds --- saved 12953 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1866.3517498970032 seconds --- saved 7617 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1885.605669260025 seconds --- saved 17764 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1904.8645536899567 seconds --- saved 15644 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1924.1209511756897 seconds --- saved 17221 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1952.1472551822662 seconds --- saved 18406 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1970.7932369709015 seconds --- saved 12894 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 1991.5702209472656 seconds --- saved 12673 games
+[2] Error fetching games: 'tcn'
+[2] --- 2010.8882081508636 seconds --- saved 13161 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2030.2407593727112 seconds --- saved 13844 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2048.751843690872 seconds --- saved 11826 games
+[2] Error fetching games: 'tcn'
+[2] --- 2067.28449344635 seconds --- saved 9934 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2088.59814119339 seconds --- saved 12737 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2111.596480369568 seconds --- saved 11680 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2130.0723423957825 seconds --- saved 12794 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2151.0001051425934 seconds --- saved 15980 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2171.032776117325 seconds --- saved 8512 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2191.8844995498657 seconds --- saved 12879 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2210.9062509536743 seconds --- saved 15099 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2232.9473779201508 seconds --- saved 16318 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2252.791661977768 seconds --- saved 20153 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2272.5771510601044 seconds --- saved 19407 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2292.41432929039 seconds --- saved 12042 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2312.682030916214 seconds --- saved 12404 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2333.144924402237 seconds --- saved 18100 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2354.637541294098 seconds --- saved 14369 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2383.1669912338257 seconds --- saved 23682 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2404.321958065033 seconds --- saved 16266 games
+[0] [0] [] actions
+[0] [0] [] actions
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2425.188417196274 seconds --- saved 18855 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2445.768075466156 seconds --- saved 14902 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2467.9115052223206 seconds --- saved 16208 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2487.198311805725 seconds --- saved 8945 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2507.5727322101593 seconds --- saved 10016 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2537.1039555072784 seconds --- saved 6659 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2556.1479766368866 seconds --- saved 7458 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2575.8350977897644 seconds --- saved 19091 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2596.683016061783 seconds --- saved 17883 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2617.705554485321 seconds --- saved 13958 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2636.7165081501007 seconds --- saved 10581 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2656.961958169937 seconds --- saved 12605 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2675.9948592185974 seconds --- saved 13345 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2697.998248577118 seconds --- saved 16725 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2717.8444480895996 seconds --- saved 9501 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2736.573664188385 seconds --- saved 7637 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2757.4282886981964 seconds --- saved 11595 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2776.3952944278717 seconds --- saved 6595 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2796.6997861862183 seconds --- saved 13608 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2815.480803966522 seconds --- saved 10965 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2836.786478281021 seconds --- saved 16913 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2855.744621038437 seconds --- saved 9125 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2876.130982398987 seconds --- saved 19704 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2896.767048597336 seconds --- saved 14802 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2919.2734887599945 seconds --- saved 12007 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2938.179024219513 seconds --- saved 6649 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2957.100001335144 seconds --- saved 7334 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2978.767478942871 seconds --- saved 14019 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 2999.296758413315 seconds --- saved 10425 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3019.275745153427 seconds --- saved 9581 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3038.816085577011 seconds --- saved 10616 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3057.1657547950745 seconds --- saved 7539 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3077.56743311882 seconds --- saved 8622 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3096.200606107712 seconds --- saved 9279 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3118.0443761348724 seconds --- saved 14195 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3138.069617986679 seconds --- saved 11170 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3156.897385120392 seconds --- saved 9160 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3176.126954317093 seconds --- saved 10732 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3197.456289768219 seconds --- saved 17241 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3218.2280657291412 seconds --- saved 9539 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3238.6109189987183 seconds --- saved 10926 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3257.1478102207184 seconds --- saved 8051 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3276.781548023224 seconds --- saved 11403 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3296.269937992096 seconds --- saved 11355 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3315.6888177394867 seconds --- saved 13132 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3336.35986328125 seconds --- saved 13203 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3358.0243043899536 seconds --- saved 11333 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3378.5871329307556 seconds --- saved 10487 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3397.5448644161224 seconds --- saved 9264 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3417.097878217697 seconds --- saved 10060 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3437.7181198596954 seconds --- saved 6844 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3456.9928081035614 seconds --- saved 9390 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3477.7318155765533 seconds --- saved 14606 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3496.043913602829 seconds --- saved 7884 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3515.9889018535614 seconds --- saved 13328 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3537.053377389908 seconds --- saved 13916 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3557.8507964611053 seconds --- saved 11463 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3577.532301425934 seconds --- saved 7769 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3602.067739009857 seconds --- saved 13626 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3620.1012065410614 seconds --- saved 8578 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3639.3721101284027 seconds --- saved 12592 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3657.83585190773 seconds --- saved 8251 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3676.395695209503 seconds --- saved 9594 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3696.960512638092 seconds --- saved 9450 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3720.6684613227844 seconds --- saved 9395 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3742.4498012065887 seconds --- saved 13424 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3762.368480682373 seconds --- saved 14091 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3781.8576979637146 seconds --- saved 14140 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3800.736294746399 seconds --- saved 13090 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3822.8164801597595 seconds --- saved 13467 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3842.405000448227 seconds --- saved 12492 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3864.4245579242706 seconds --- saved 16814 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3885.114184856415 seconds --- saved 14285 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3906.8516762256622 seconds --- saved 16821 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3927.463056087494 seconds --- saved 10583 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3947.473581314087 seconds --- saved 9478 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3968.1659932136536 seconds --- saved 9200 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 3988.959008693695 seconds --- saved 8255 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4009.8300120830536 seconds --- saved 10949 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4031.0993514060974 seconds --- saved 13623 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4050.7730810642242 seconds --- saved 12195 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4069.4412150382996 seconds --- saved 9022 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4089.1186063289642 seconds --- saved 8912 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4107.7985718250275 seconds --- saved 9391 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4126.899230718613 seconds --- saved 8742 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4146.0954349040985 seconds --- saved 12771 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4166.169699430466 seconds --- saved 14611 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4186.0090136528015 seconds --- saved 15444 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4204.344193220139 seconds --- saved 12741 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4222.2376046180725 seconds --- saved 11750 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4240.363310337067 seconds --- saved 10389 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4261.406695604324 seconds --- saved 10082 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4281.694505691528 seconds --- saved 16751 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4300.206600666046 seconds --- saved 12524 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4318.111443519592 seconds --- saved 10444 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4358.2302503585815 seconds --- saved 9487 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4376.009447336197 seconds --- saved 5007 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4394.3244915008545 seconds --- saved 10999 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4413.956594944 seconds --- saved 14389 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4434.659327030182 seconds --- saved 16008 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4455.014999628067 seconds --- saved 14843 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4474.847039699554 seconds --- saved 17011 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4493.496994018555 seconds --- saved 14370 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4513.448726892471 seconds --- saved 15923 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4533.7868111133575 seconds --- saved 11200 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4553.234790086746 seconds --- saved 14628 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4572.2849180698395 seconds --- saved 14220 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4591.89284825325 seconds --- saved 14684 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4611.05282330513 seconds --- saved 14075 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4631.80871295929 seconds --- saved 12219 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4650.193564414978 seconds --- saved 11602 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4676.18967628479 seconds --- saved 15703 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4695.809771776199 seconds --- saved 15449 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4715.834192991257 seconds --- saved 16609 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4740.898268222809 seconds --- saved 17048 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4760.550167798996 seconds --- saved 8555 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4781.047845840454 seconds --- saved 11068 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4804.497908592224 seconds --- saved 14617 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4823.420328617096 seconds --- saved 14320 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+--- 4842.959184408188 seconds --- saved 14743 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4861.651118755341 seconds --- saved 13357 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4881.92379283905 seconds --- saved 10296 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4900.29372382164 seconds --- saved 11828 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4919.3755967617035 seconds --- saved 12909 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4943.261359453201 seconds --- saved 12209 games
+[2] Error fetching games: 'tcn'
+[2] --- 4963.953633069992 seconds --- saved 14406 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 4983.1320197582245 seconds --- saved 12092 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5002.313990831375 seconds --- saved 14418 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5021.686488389969 seconds --- saved 13859 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5040.7068293094635 seconds --- saved 11377 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5059.640505552292 seconds --- saved 13525 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5078.104558944702 seconds --- saved 9841 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5097.094137907028 seconds --- saved 9210 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5116.2698040008545 seconds --- saved 8649 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5135.041214227676 seconds --- saved 11816 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5155.6473524570465 seconds --- saved 13208 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5175.2369747161865 seconds --- saved 14293 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5200.087825298309 seconds --- saved 17660 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5220.3178033828735 seconds --- saved 9996 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5241.141941785812 seconds --- saved 9997 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5259.799624919891 seconds --- saved 11705 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5278.705427408218 seconds --- saved 10555 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5297.625317335129 seconds --- saved 9118 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5317.180358886719 seconds --- saved 6986 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5337.123407363892 seconds --- saved 10970 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5355.406484365463 seconds --- saved 9498 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5375.087870597839 seconds --- saved 12719 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5394.133722543716 seconds --- saved 12806 games
+[2] Error fetching games: 'tcn'
+[2] --- 5416.142575740814 seconds --- saved 11334 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5434.631762266159 seconds --- saved 11975 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5452.9265813827515 seconds --- saved 11020 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5472.864371299744 seconds --- saved 16217 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5492.342711687088 seconds --- saved 10913 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5511.842659473419 seconds --- saved 13240 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5533.905966043472 seconds --- saved 15924 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5559.185089111328 seconds --- saved 17935 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5579.242953300476 seconds --- saved 7772 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5598.396351575851 seconds --- saved 7976 games
+[2] --- 5619.911344051361 seconds --- saved 10625 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5640.171352148056 seconds --- saved 10361 games
+[2] Error fetching games: 'tcn'
+[2] --- 5660.438814878464 seconds --- saved 14287 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5679.99729347229 seconds --- saved 8949 games
+[2] Error fetching games: 'tcn'
+[2] --- 5698.828897237778 seconds --- saved 9734 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5720.648271083832 seconds --- saved 10491 games
+[2] --- 5739.919454097748 seconds --- saved 10177 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5760.005798578262 seconds --- saved 10742 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5779.021396398544 seconds --- saved 9883 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5805.7528438568115 seconds --- saved 11519 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5826.480627298355 seconds --- saved 18513 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5848.237315416336 seconds --- saved 11802 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5868.692707777023 seconds --- saved 8956 games
+[2] Error fetching games: 'tcn'
+[2] --- 5890.750116825104 seconds --- saved 11490 games
+[2] --- 5917.108763694763 seconds --- saved 19865 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5939.835790157318 seconds --- saved 7390 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5963.916382312775 seconds --- saved 21131 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] --- 5984.038440465927 seconds --- saved 12043 games
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[2] Error fetching games: 'tcn'
+[0] [0] [] actions
+[0] [0] [] actions
+[1] cd /home/nico/active_projects/analyser_actions && /home/nico/.local/bin/flask run --host=0.0.0.0 --port=50000 exited with code SIGTERM
+[0] [0] npm run server exited with code SIGHUP
+[0] [1] npm run client exited with code SIGHUP
+[0] cd /home/nico/active_projects/actions_tracker && npm start exited with code SIGHUP
+[2] cd /home/nico/active_projects/ratingDist && python main.py exited with code SIGTERM
+[0] 
+[0] > actions-tracker@1.0.0 start
+[0] > concurrently "npm run server" "npm run client"
+[0] 
+[0] [0] 
+[0] [0] > actions-tracker@1.0.0 server
+[0] [0] > cd server && npm run start
+[0] [0] 
+[0] [1] 
+[0] [1] > actions-tracker@1.0.0 client
+[0] [1] > cd client && npm run dev
+[0] [1] 
+[1]  * Debug mode: off
+[1] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+[1]  * Running on all addresses (0.0.0.0)
+[1]  * Running on http://127.0.0.1:50000
+[1]  * Running on http://192.168.1.103:50000
+[1] Press CTRL+C to quit
+[0] [1] 
+[0] [1] > actions-tracker@0.0.0 dev
+[0] [1] > vite
+[0] [1] 
+[0] [0] 
+[0] [0] > server@1.0.0 start
+[0] [0] > node server
+[0] [0] 
+[0] [0] Server running on port 50001
+[0] [1] 
+[0] [1]   VITE v5.1.3  ready in 359 ms
+[0] [1] 
+[0] [1]   ➜  Local:   http://localhost:50002/
+[0] [1]   ➜  Network: use --host to expose
+[1] cd /home/nico/active_projects/analyser_actions && /home/nico/.local/bin/flask run --host=0.0.0.0 --port=50000 exited with code SIGTERM
+[0] [0] npm run server exited with code SIGHUP
+[0] [1] npm run client exited with code SIGHUP
+[0] cd /home/nico/active_projects/actions_tracker && npm start exited with code SIGHUP
+[2] cd /home/nico/active_projects/ratingDist && python main.py exited with code SIGTERM
+[0] 
+[0] > actions-tracker@1.0.0 start
+[0] > concurrently "npm run server" "npm run client"
+[0] 
+[0] [1] 
+[0] [1] > actions-tracker@1.0.0 client
+[0] [1] > cd client && npm run dev
+[0] [1] 
+[1]  * Debug mode: off
+[0] [0] 
+[0] [0] > actions-tracker@1.0.0 server
+[0] [0] > cd server && npm run start
+[0] [0] 
+[1] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+[1]  * Running on all addresses (0.0.0.0)
+[1]  * Running on http://127.0.0.1:50000
+[1]  * Running on http://192.168.1.103:50000
+[1] Press CTRL+C to quit
+[0] [1] 
+[0] [1] > actions-tracker@0.0.0 dev
+[0] [1] > vite
+[0] [1] 
+[0] [0] 
+[0] [0] > server@1.0.0 start
+[0] [0] > node server
+[0] [0] 
+[0] [0] Server running on port 50001
+[0] [1] 
+[0] [1]   VITE v5.1.3  ready in 529 ms
+[0] [1] 
+[0] [1]   ➜  Local:   http://localhost:50002/
+[0] [1]   ➜  Network: use --host to expose
+[1] cd /home/nico/active_projects/analyser_actions && /home/nico/.local/bin/flask run --host=0.0.0.0 --port=50000 exited with code SIGTERM
+[0] [1] npm run client exited with code SIGHUP
+[0] [0] npm run server exited with code SIGHUP
+[0] cd /home/nico/active_projects/actions_tracker && npm start exited with code SIGHUP
+[2] cd /home/nico/active_projects/ratingDist && python main.py exited with code SIGTERM
+[0] 
+[0] > actions-tracker@1.0.0 start
+[0] > concurrently "npm run server" "npm run client"
+[0] 
+[0] [0] 
+[0] [0] > actions-tracker@1.0.0 server
+[0] [0] > cd server && npm run start
+[0] [0] 
+[0] [1] 
+[0] [1] > actions-tracker@1.0.0 client
+[0] [1] > cd client && npm run dev
+[0] [1] 
+[1]  * Debug mode: off
+[1] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+[1]  * Running on all addresses (0.0.0.0)
+[1]  * Running on http://127.0.0.1:50000
+[1]  * Running on http://192.168.1.103:50000
+[1] Press CTRL+C to quit
+[0] [1] 
+[0] [1] > actions-tracker@0.0.0 dev
+[0] [1] > vite
+[0] [1] 
+[0] [0] 
+[0] [0] > server@1.0.0 start
+[0] [0] > node server
+[0] [0] 
+[0] [0] Server running on port 50001
+[0] [1] 
+[0] [1]   VITE v5.1.3  ready in 327 ms
+[0] [1] 
+[0] [1]   ➜  Local:   http://localhost:50002/
+[0] [1]   ➜  Network: use --host to expose
+[1] cd /home/nico/active_projects/analyser_actions && /home/nico/.local/bin/flask run --host=0.0.0.0 --port=50000 exited with code SIGTERM
+[0] [0] npm run server exited with code SIGHUP
+[0] [1] npm run client exited with code SIGHUP
+[0] cd /home/nico/active_projects/actions_tracker && npm start exited with code SIGHUP
+[2] cd /home/nico/active_projects/ratingDist && python main.py exited with code SIGTERM
+[0] 
+[0] > actions-tracker@1.0.0 start
+[0] > concurrently "npm run server" "npm run client"
+[0] 
+[0] [1] 
+[0] [1] > actions-tracker@1.0.0 client
+[0] [1] > cd client && npm run dev
+[0] [1] 
+[0] [0] 
+[0] [0] > actions-tracker@1.0.0 server
+[0] [0] > cd server && npm run start
+[0] [0] 
+[1]  * Debug mode: off
+[1] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+[1]  * Running on all addresses (0.0.0.0)
+[1]  * Running on http://127.0.0.1:50000
+[1]  * Running on http://127.0.0.1:50000
+[1] Press CTRL+C to quit
+[0] [0] 
+[0] [0] > server@1.0.0 start
+[0] [0] > node server
+[0] [0] 
+[0] [1] 
+[0] [1] > actions-tracker@0.0.0 dev
+[0] [1] > vite
+[0] [1] 
+[0] [0] Server running on port 50001
+[0] [1] 
+[0] [1]   VITE v5.1.3  ready in 331 ms
+[0] [1] 
+[0] [1]   ➜  Local:   http://localhost:50002/
+[0] [1]   ➜  Network: use --host to expose
+[1] cd /home/nico/active_projects/analyser_actions && /home/nico/.local/bin/flask run --host=0.0.0.0 --port=50000 exited with code SIGTERM
+[0] [1] npm run client exited with code SIGHUP
+[0] [0] npm run server exited with code SIGHUP
+[0] cd /home/nico/active_projects/actions_tracker && npm start exited with code SIGHUP
+[2] cd /home/nico/active_projects/ratingDist && python main.py exited with code SIGTERM
+[0] 
+[0] > actions-tracker@1.0.0 start
+[0] > concurrently "npm run server" "npm run client"
+[0] 
+[1]  * Debug mode: off
+[1] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+[1]  * Running on all addresses (0.0.0.0)
+[1]  * Running on http://127.0.0.1:50000
+[1]  * Running on http://192.168.1.103:50000
+[1] Press CTRL+C to quit
+[0] [0] 
+[0] [0] > actions-tracker@1.0.0 server
+[0] [0] > cd server && npm run start
+[0] [0] 
+[0] [1] 
+[0] [1] > actions-tracker@1.0.0 client
+[0] [1] > cd client && npm run dev
+[0] [1] 
+[0] [0] 
+[0] [0] > server@1.0.0 start
+[0] [0] > node server
+[0] [0] 
+[0] [1] 
+[0] [1] > actions-tracker@0.0.0 dev
+[0] [1] > vite
+[0] [1] 
+[0] [0] Server running on port 50001
+[0] [1] 
+[0] [1]   VITE v5.1.3  ready in 279 ms
+[0] [1] 
+[0] [1]   ➜  Local:   http://localhost:50002/
+[0] [1]   ➜  Network: use --host to expose
+[1] cd /home/nico/active_projects/analyser_actions && /home/nico/.local/bin/flask run --host=0.0.0.0 --port=50000 exited with code SIGTERM
+[0] [0] npm run server exited with code SIGHUP
+[0] [1] npm run client exited with code SIGHUP
+[0] cd /home/nico/active_projects/actions_tracker && npm start exited with code SIGHUP
+[2] cd /home/nico/active_projects/ratingDist && python main.py exited with code SIGTERM
+[0] 
+[0] > actions-tracker@1.0.0 start
+[0] > concurrently "npm run server" "npm run client"
+[0] 
+[0] [0] 
+[0] [0] > actions-tracker@1.0.0 server
+[0] [0] > cd server && npm run start
+[0] [0] 
+[0] [1] 
+[0] [1] > actions-tracker@1.0.0 client
+[0] [1] > cd client && npm run dev
+[0] [1] 
+[1]  * Debug mode: off
+[1] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+[1]  * Running on all addresses (0.0.0.0)
+[1]  * Running on http://127.0.0.1:50000
+[1]  * Running on http://127.0.0.1:50000
+[1] Press CTRL+C to quit
+[0] [0] 
+[0] [0] > server@1.0.0 start
+[0] [0] > node server
+[0] [0] 
+[0] [1] 
+[0] [1] > actions-tracker@0.0.0 dev
+[0] [1] > vite
+[0] [1] 
+[0] [0] Server running on port 50001
+[0] [1] 
+[0] [1]   VITE v5.1.3  ready in 260 ms
+[0] [1] 
+[0] [1]   ➜  Local:   http://localhost:50002/
+[0] [1]   ➜  Network: use --host to expose
+[1] cd /home/nico/active_projects/analyser_actions && /home/nico/.local/bin/flask run --host=0.0.0.0 --port=50000 exited with code SIGTERM
+[0] [0] npm run server exited with code SIGHUP
+[0] [1] npm run client exited with code SIGHUP
+[0] cd /home/nico/active_projects/actions_tracker && npm start exited with code SIGHUP
+[2] cd /home/nico/active_projects/ratingDist && python main.py exited with code SIGTERM
+[0] 
+[0] > actions-tracker@1.0.0 start
+[0] > concurrently "npm run server" "npm run client"
+[0] 
+[0] [1] 
+[0] [1] > actions-tracker@1.0.0 client
+[0] [1] > cd client && npm run dev
+[0] [1] 
+[0] [0] 
+[0] [0] > actions-tracker@1.0.0 server
+[0] [0] > cd server && npm run start
+[0] [0] 
+[1]  * Debug mode: off
+[1] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+[1]  * Running on all addresses (0.0.0.0)
+[1]  * Running on http://127.0.0.1:50000
+[1]  * Running on http://127.0.0.1:50000
+[1] Press CTRL+C to quit
+[0] [1] 
+[0] [1] > actions-tracker@0.0.0 dev
+[0] [1] > vite
+[0] [1] 
+[0] [0] 
+[0] [0] > server@1.0.0 start
+[0] [0] > node server
+[0] [0] 
+[0] [0] Server running on port 50001
+[0] [1] 
+[0] [1]   VITE v5.1.3  ready in 282 ms
+[0] [1] 
+[0] [1]   ➜  Local:   http://localhost:50002/
+[0] [1]   ➜  Network: use --host to expose
+[2] Starting at 10:39:01 03/01/24 CET 1709285941.1665597
+[2] Traceback (most recent call last):
+[2]   File "/home/nico/active_projects/ratingDist/main.py", line 111, in <module>
+[2]     names_not_found_pd.to_csv('csv/namesNotFound.csv',header=["Name"], index=False)
+[2]   File "/home/nico/Downloads/from_windows/Projects/otherScripts/ratingDist/.venv/lib64/python3.11/site-packages/pandas/util/_decorators.py", line 333, in wrapper
+[2]     return func(*args, **kwargs)
+[2]            ^^^^^^^^^^^^^^^^^^^^^
+[2]   File "/home/nico/Downloads/from_windows/Projects/otherScripts/ratingDist/.venv/lib64/python3.11/site-packages/pandas/core/generic.py", line 3961, in to_csv
+[2]     return DataFrameRenderer(formatter).to_csv(
+[2]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2]   File "/home/nico/Downloads/from_windows/Projects/otherScripts/ratingDist/.venv/lib64/python3.11/site-packages/pandas/io/formats/format.py", line 1014, in to_csv
+[2]     csv_formatter.save()
+[2]   File "/home/nico/Downloads/from_windows/Projects/otherScripts/ratingDist/.venv/lib64/python3.11/site-packages/pandas/io/formats/csvs.py", line 251, in save
+[2]     with get_handle(
+[2]          ^^^^^^^^^^^
+[2]   File "/home/nico/Downloads/from_windows/Projects/otherScripts/ratingDist/.venv/lib64/python3.11/site-packages/pandas/io/common.py", line 749, in get_handle
+[2]     check_parent_directory(str(handle))
+[2]   File "/home/nico/Downloads/from_windows/Projects/otherScripts/ratingDist/.venv/lib64/python3.11/site-packages/pandas/io/common.py", line 616, in check_parent_directory
+[2]     raise OSError(rf"Cannot save file into a non-existent directory: '{parent}'")
+[2] OSError: Cannot save file into a non-existent directory: 'csv'
+[2] cd /home/nico/active_projects/ratingDist && python main.py exited with code 1
+[1] cd /home/nico/active_projects/analyser_actions && /home/nico/.local/bin/flask run --host=0.0.0.0 --port=50000 exited with code SIGTERM
+[0] [1] npm run client exited with code SIGHUP
+[0] [0] npm run server exited with code SIGHUP
+[0] cd /home/nico/active_projects/actions_tracker && npm start exited with code SIGHUP
+[0] 
+[0] > actions-tracker@1.0.0 start
+[0] > concurrently "npm run server" "npm run client"
+[0] 
+[0] [1] 
+[0] [1] > actions-tracker@1.0.0 client
+[0] [1] > cd client && npm run dev
+[0] [1] 
+[0] [0] 
+[0] [0] > actions-tracker@1.0.0 server
+[0] [0] > cd server && npm run start
+[0] [0] 
+[1]  * Debug mode: off
+[1] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+[1]  * Running on all addresses (0.0.0.0)
+[1]  * Running on http://127.0.0.1:50000
+[1]  * Running on http://127.0.0.1:50000
+[1] Press CTRL+C to quit
+[0] [1] 
+[0] [1] > actions-tracker@0.0.0 dev
+[0] [1] > vite
+[0] [1] 
+[0] [0] 
+[0] [0] > server@1.0.0 start
+[0] [0] > node server
+[0] [0] 
+[0] [0] Server running on port 50001
+[0] [1] 
+[0] [1]   VITE v5.1.3  ready in 247 ms
+[0] [1] 
+[0] [1]   ➜  Local:   http://localhost:50002/
+[0] [1]   ➜  Network: use --host to expose
+[0] [0] npm run server exited with code SIGHUP
+[0] [1] npm run client exited with code SIGHUP
+[1] cd /home/nico/active_projects/analyser_actions && /home/nico/.local/bin/flask run --host=0.0.0.0 --port=50000 exited with code SIGTERM
+[0] cd /home/nico/active_projects/actions_tracker && npm start exited with code SIGHUP
+[2] cd /home/nico/active_projects/ratingDist && python main.py exited with code SIGTERM
